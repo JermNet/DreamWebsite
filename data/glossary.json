@@ -878,5 +878,93 @@
     "description": "Modern Family is a sitcom about a family living in Los Angeles, and follows the lives of the Pritchett-Dunphy-Tucker clan. It's known for its mockumentary style, diverse cast, and humorous take on modern family life. The show has received critical acclaim, and has won numerous awards.",
     "image": "modern_family.png",
     "link": "https://en.wikipedia.org/wiki/Modern_Family"
+  },
+  {
+    "id": 190,
+    "term": "Ms. Middle School English",
+    "excerpt": "My middle school English teacher.",
+    "description": "Ms. Middle School English was my English teacher for my first two middle school years, as well as a Health-type class and Future-type class (I can't remember the exact name of the classes) in my last middle school year. She was really nice, and since the groups of people were relatively the same between years, we all had a pretty good relationship with her. Being completely honest as well, I likely had a bit of a crush on her back in the day, but I was a middle schooler, so I assume that's fairly normal, especially considering the circumstances.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 191,
+    "term": "Shauna",
+    "excerpt": "An aquaintance from middle school.",
+    "description": "Shauna (not her real name) was an aquaintance from middle school in the same vein as Bradley S., and was in his group of friends. I didn't really know her that well, but she once asked two questions that became inside jokes between me and one of my friends. The first was \"Is Pinocchio a Pokémon?\" and the second was \"Is October in February?\". The second was definitely a slip of the tongue, but the first was absolutely hilarious to us nerds.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 192,
+    "term": "Neo Genesis",
+    "excerpt": "A Pokémon trading card set.",
+    "description": "Neo Genesis is a Pokémon trading card set, and the first set in the \"Neo\" series of sets. It was released in 2000, and was the first set to introduce the second generation of Pokémon, as well as new mechanics such as Pokémon with multiple types.",
+    "image": "neo_genesis.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Neo_Genesis_(TCG)"
+  },
+  {
+    "id": 193,
+    "term": "Diary of a Wimpy Kid",
+    "excerpt": "A children's book series by Jeff Kinney.",
+    "description": "Diary of a Wimpy Kid is a children's book series by Jeff Kinney, and follows the life of Greg Heffley, a middle school student, as he navigates the challenges of growing up. It's known for its humorous writing style, relatable characters, and simple illustrations. I used to be obsessed with this series as a kid, getting all the books at the time, the first movie on DVD, and even the movie and do it yourself books.",
+    "image": "diary_of_a_wimpy_kid.png",
+    "link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid"
+  },
+  {
+    "id": 194,
+    "term": "Amulet",
+    "excerpt": "A graphic novel series by Kazu Kibuishi.",
+    "description": "Amulet is a graphic novel series by Kazu Kibuishi, and follows the adventures of Emily and her brother Navin as they navigate a fantasy world filled with magical creatures and dangerous enemies. It's known for its beautiful artwork, engaging story, and strong character development. It wasn't a huge part of my childhood personally, but it was a book series you would always see at the book fair at my elementary school.",
+    "image": "amulet.png",
+    "link": "https://en.wikipedia.org/wiki/Amulet_(comics)"
+  },
+  {
+    "id": 195,
+    "term": "Super Mario 64",
+    "excerpt": "A 3D platformer game by Nintendo.",
+    "description": "Super Mario 64 is a 3D platformer game by Nintendo, and was one of the launch titles for the Nintendo 64. It was a groundbreaking game for its time, and is considered one of the best games of all time. I didn't grow up with the original, but I did play the DS version a lot so there's nostalgia there.",
+    "image": "super_mario_64.png",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_64"
+  },
+  {
+    "id": 196,
+    "term": "Peach's Castle",
+    "excerpt": "A location from the game Super Mario 64.",
+    "description": "Peach's Castle is a location from the game Super Mario 64, and is the main hub world of the game. It's where Princess Peach resides, and where Mario goes to rescue her from Bowser. The castle is known for its iconic design, and the various rooms and areas that players can explore.",
+    "image": "peachs_castle.png",
+    "link": "https://www.mariowiki.com/Peach%27s_Castle"
+  },
+  {
+    "id": 197,
+    "term": "Donkey Kong 64",
+    "excerpt": "A 3D platformer game by Rare.",
+    "description": "Donkey Kong 64 is a 3D platformer game by Rare, and was released for the Nintendo 64 in 1999. It follows Donkey Kong and his friends as they try to stop King K. Rool from destorying their home, DK Island. The game is somewhat infamous for its sheer amount of collectibles, and character switching mechanics, but is still considered a classic by many.",
+    "image": "donkey_kong_64.png",
+    "link": "https://en.wikipedia.org/wiki/Donkey_Kong_64"
+  },
+  {
+    "id": 198,
+    "term": "Donkey Kong",
+    "excerpt": "A character from the Donkey Kong franchise.",
+    "description": "Donkey Kong is a character from the Donkey Kong franchise, and is the main protagonist of the series. He's known for his strength, love of bananas, and his rivalries with both King K. Rool and Mario. He first appeared in the titular arcade game, Donkey Kong, in 1981, and has become one of Nintendo's most iconic characters.",
+    "image": "donkey_kong.png",
+    "link": "https://en.wikipedia.org/wiki/Donkey_Kong_%28character%29"
+  },
+  {
+    "id": 199,
+    "term": "Simian Slam",
+    "excerpt": "A move used by Donkey Kong in the game Donkey Kong 64.",
+    "description": "Simian Slam is a move used by Donkey Kong in the game Donkey Kong 64. It's a powerful ground pound attack that can be used to break certain objects, and defeat enemies. It's one of Donkey Kong's signature moves, and is in other Donkey Kong games, though not by the same name.",
+    "image": "simian_slam.png",
+    "link": "https://www.mariowiki.com/Simian_Slam"
+  },
+  {
+    "id": 200,
+    "term": "Golden Banana",
+    "excerpt": "A collectible item in the game Donkey Kong 64.",
+    "description": "Golden Bananas are a collectible item in the game Donkey Kong 64. They're used to unlock new areas, and progress through the game. Each of the five playable Kongs has their own set of Golden Bananas to collect, and they can be found in various locations throughout DK Island.",
+    "image": "golden_banana.gif",
+    "link": "https://donkeykong.fandom.com/wiki/Golden_Banana"
   }
 ]
