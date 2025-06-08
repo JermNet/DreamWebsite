@@ -1,0 +1,882 @@
+[
+  {
+    "id": 0,
+    "term": "Ace Attorney Series",
+    "excerpt": "A video game series about a defense attorney solving cases.", 
+    "description": "The Ace Attorney series is about the main character (for the most part), Phoenix Wright, a defense attorney who solves cases in court. It released in 2001, and has gained a lot of popularity over the years. It's known for its stories, often strange characters, and unique aproach to puzzle solving.",
+    "image": "ace_attorney_logo.png",
+    "link": "https://en.wikipedia.org/wiki/Ace_Attorney"
+  },
+  {
+    "id": 1,
+    "term": "3DS XL",
+    "excerpt": "A handheld gaming console by Nintendo.",
+    "description": "The Nintendo 3DS XL is the version of the Nintendo 3DS that has a larger screen than the original. It was released in 2012, and had the main gimick of being able to play games in 3D without glasses. Some games you might know that were released on the 3DS XL (and normal 3DS) include: Animal Crossing: New Leaf, The Legend of Zelda: Ocarina of Time 3D, and Super Mario 3D Land.",
+    "image": "3ds_xl.png",
+    "link": "https://en.wikipedia.org/wiki/Nintendo_3DS"
+  },
+  {
+    "id": 2,
+    "term": "Phoenix Wright",
+    "excerpt": "The main character of the Ace Attorney series.",
+    "description": "Phoenix Wright is the main character of all but one of the main Ace Attorney games. He is a defense attorney who solves cases in court, and is known for his often used pose of pointing at the prosecutor and shouting \"Objection!\" He has grown to become a popular Capcom character, and has appeared in many spin-off games and media.",
+    "image": "aa_desk_slam.gif",
+    "link": "https://en.wikipedia.org/wiki/Phoenix_Wright"
+  },
+  {
+    "id": 3,
+    "term": "Post Trial Wrap-Up",
+    "excerpt": "A section in the Ace Attorney games that wraps up the case after the trial.",
+    "description": "The post trial wrap-up is a specific section in the Ace Attorney games that takes place after a trial has ended, but before the next case begins. It usually involves the characters reflecting on the case, and talking with the client that they defended. It's a time for the characters to both celebrate and mourn the events of the case.",
+    "image": "aa_post_trial.png",
+    "link": ""
+  },
+  {
+    "id": 4,
+    "term": "Capture Card",
+    "excerpt": "A device that allows you to record or stream video from an external source.",
+    "description": "A capture card is a device that allows you to caputre video from an external source, which is typically anything that outputs video through HDMI. The most common use is to capture video from a game console for footage or streaming.",
+    "image": "capture_card.png",
+    "link": "https://en.wikipedia.org/wiki/Capture_card"
+  },
+  {
+    "id": 5,
+    "term": "Ekans",
+    "excerpt": "A snake-like Pokémon.",
+    "description": "Ekans is a snake-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Poison-type Pokémon, and it's name is snake spelled backwards.",
+    "image": "ekans.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pokémon)"
+  },
+  {
+    "id": 6,
+    "term": "Bellsprout",
+    "excerpt": "A plant-like Pokémon that resembles a sprout.",
+    "description": "Bellsprout is a plant-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Grasss and Poison-type Pokémon, and it's name is a combination of bell and sprout, which describes its appearance.",
+    "image": "bellsprout.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Pokémon)"
+  },
+  {
+    "id": 7,
+    "term": "Dango Theme",
+    "excerpt": "A piece of music from the Clannad series.",
+    "description": "The Dango Theme, also known as Dango Daikazoku, is a piece of music from the Clannad series, often associated with the characters Nagisa and Ushio. It is meant to be a bit of a childish song, and Nagisa even gets made fun of for that in the series, but it has themes of family and togetherness which are important to the series and characters.",
+    "image": "dango.png",
+    "link": "https://youtu.be/0LbuYgL2DgA?si=Rycrbdb_Vnb6J2z1"
+  },
+  {
+    "id": 8,
+    "term": "Clannad The Motion Picture",
+    "excerpt": "A 2007 animated film based on the Clannad visual novel.",
+    "description": "Clannad the Motion Picture is a 2007 Japanese animated film based on the Clannad visual novel. It was produced by Toei Animation, and is an extremely condensed adaptation of the visual novel, covering a large part of the story, but cutting out many important aspects. It follows Tomoya Okazaki, a high school student who meets Nagisa Furukawa and helps her revive the school's drama club.",
+    "image": "clannad_movie.png",
+    "link": "https://en.wikipedia.org/wiki/Clannad_(film)"
+  },
+  {
+    "id": 9,
+    "term": "The SL-9 Incident Recollection Theme",
+    "excerpt": "A piece of music from the first Ace Attorney game that is played during a recollection of events.",
+    "description": "The SL-9 Incident is a past case from Ace Attorney, which is important to the case Rise From the Ashes in the first Ace Attorney game. I will not go into it in detail, as it is a major spoiler for that case, but the music is played over a recollection of the events, and is meant to be somber, emphasizing the tragedy of the case.",
+    "image": "",
+    "link": "https://youtu.be/JMg6N9PuOi8?si=DCqx66SjMbWhYeu3"
+  },
+  {
+    "id": 10,
+    "term": "Steel Samurai's Ballad Recollection Theme",
+    "excerpt": "A piece of music from the first Ace Attorney game that is played during a recollection of events.",
+    "description": "The Steel Samurai's Ballad is a piece of music from the first Ace Attorney game, which is played near the end of the case Turnabout Samurai. It is meant to be sad, emphasizing the tragedy of the case. I will not go into more details for the sake of spoilers.",
+    "image": "",
+    "link": "https://youtu.be/VzW7ou4UaZg?si=hwDsoE6_Rmw27moF"
+  },
+  {
+    "id": 11,
+    "term": "Binging with Babish",
+    "excerpt": "A YouTube channel that recreates recipes from movies and TV shows.",
+    "description": "Binging with Babish is a YouTube channel who creates recipes from movies, TV, etc. From what I've seen, he's a nice fella, despite what my dreams might imply.",
+    "image": "binging_with_babish.png",
+    "link": "https://en.wikipedia.org/wiki/Babish_Culinary_Universe"
+  },
+  {
+    "id": 12,
+    "term": "Clannad",
+    "excerpt": "A visual novel and anime series that focuses on family and relationships.",
+    "description": "Clannad is mainly a visual novel and anime series that focuses on family and relationships. The visual novel was originally released in 2004, and the anime adaptation was released in 2007. There are many different characters, most with their own story arcs, but the main character is Tomoya Okazaki, and the main heroine is Nagisa Furukawa. It's know for how emotional it can be, it's theme of family and relationships, and how it delves into serious topics.",
+    "image": "clannad.png",
+    "link": "https://en.wikipedia.org/wiki/Clannad_(visual_novel)"
+  },
+  {
+    "id": 13,
+    "term": "Mrs. Science 9",
+    "excerpt": "My grade 9 science teacher.",
+    "description": "Mrs. Science 9 was my grade 9 (and grade 7) science teacher in middle school. She was kind of hard on us, and a lot of students didn't like her because of that. But she was a good teacher, and clearly just wanted us to do well in future where things would be tougher. Appearance-wise, she was fairly short, had long dirty blonde hair, and was probably in her mid to late 30s at the time. She also took her reputation among the students with a bit of pride, and would sometimes joke about it.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 14,
+    "term": "Ushio Okazaki",
+    "excerpt": "A character from the Clannad series, the daughter of Tomoya and Nagisa.",
+    "description": "Ushio Okazaki is a character from the Clannad series, and is the daughter of the main characters, Tomoya Okazaki and Nagisa Furukawa. She is a child, and extremely important to the \"After Story\" arc of Clannad, which is the latter half of the visual novel and anime series.",
+    "image": "ushio.png",
+    "link": "https://clannad.fandom.com/wiki/Ushio_Okazaki"
+  },
+  {
+    "id": 15, 
+    "term": "Dango (Clannad)",
+    "excerpt": "A Japanese sweet that is often associated with the Clannad series.",
+    "description": "Dango is a Japanese sweet, but in the conext of Clannad, it is the food that the Big Dango Family is based on. The Big Dango Family is from a fictional show in Clannad, and is a family of dango that sing a song together. The Big Dango Family is something that Nagisa and Ushio both love, and is a recurring aspect of the series.",
+    "image": "dango.png",
+    "link": "https://clannad.fandom.com/wiki/Great_Dango_Family"
+  },
+  {
+    "id": 16,
+    "term": "Nagisa Furukawa",
+    "excerpt": "The main heroine of the Clannad series.",
+    "description": "Nagisa Furukawa is the main heroine of the Clannad series, and is the love interest of Tomoya Okazaki. She is shy, and not very self confident, but is very kind, and puts others before herself to a fault. She is also the poster girl of the series, and is often the character to appear when Clannad is represented in other media.",
+    "image": "nagisa.png",
+    "link": "https://clannad.fandom.com/wiki/Nagisa_Furukawa"
+  },
+  {
+    "id": 17,
+    "term": "Ram",
+    "excerpt": "A character from the Re:Zero series.",
+    "description": "Ram is a character from the Re:Zero series, and is the twin sister of Rem. She is a maid, and is known for her tsundere personality since it's the opposite of her sister's. In reality, she's very kind. She is also a demon, with a horn on her head that can be hidden.",
+    "image": "ram.png",
+    "link": "https://rezero.fandom.com/wiki/Ram"
+  },
+  {
+    "id": 18,
+    "term": "Zoro",
+    "excerpt": "A character from the One Piece series.",
+    "description": "Zoro is a character from the One Piece series, and is one of the main characters. He's a swordsman, known for his three sword style, and is a member of the Straw Hat Pirates. He has a strong sense of loyalty and justice, and does whatever his captain, Monkey D. Luffy, orders him to do.",
+    "image": "zoro.png",
+    "link": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+  },
+  {
+    "id": 19,
+    "term": "One Piece",
+    "excerpt": "A long-running manga and anime series about pirates.",
+    "description": "One Piece is a manga and anime series that has been running since the late 90s. It follows Monkey D. Luffy, a pirate who wants to become the Pirate King, and his crew, the Straw Hat Pirates, which grows as the series progressed. The series is known for its world-building, length, and attention to detail.",
+    "image": "one_piece.png",
+    "link": "https://en.wikipedia.org/wiki/One_Piece"
+  },
+  {
+    "id": 20,
+    "term": "Victor",
+    "excerpt": "A personal friend of mine.",
+    "description": "Victor (not his real name) is a personal friend of mine who I met in late elementary school, but didn't become friends with until the middle of middle school. He's from the Philippines, and a very nice guy. He's smart, and has a good sense of humor. He also partly introduced me to anime, and is a fan of anime himself.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 21,
+    "term": "Re:Zero",
+    "excerpt": "A light novel, manga, and anime series about time traveling by dying.",
+    "description": "Re:Zero is a light novel, manga, and anime series that follows Subaru Natsuki, a young man who is transported to a fantasy world. He gets transported with nothing, and dies early on only to find that when he dies, he goes back in time to a specific point. Although he does use this to his advantage, it's a curse as he has to experience the pain of dying over and over again, and has to watch his friends die as well. The series is know for its dark themes, and how it explores the consequences of Subaru's actions.",
+    "image": "rezero.png",
+    "link": "https://en.wikipedia.org/wiki/Re:Zero"
+  },
+  {
+    "id": 22,
+    "term": "Rem",
+    "excerpt": "A character from the Re:Zero series.",
+    "description": "Rem is a character from the Re:Zero series, and is the twin sister of Ram. She is a maid, and is known for her kind personality, and her love for Subaru Natsuki, the main character. She is also a demon, with a horn on her head that can be hidden.",
+    "image": "rem.png",
+    "link": "https://rezero.fandom.com/wiki/Rem"
+  },
+  {
+    "id": 23,
+    "term": "Subaru Natsuki",
+    "excerpt": "The main character of the Re:Zero series.",
+    "description": "Subaru Natsuki is the main character of the Re:Zero series, and is a young man who is transported to a fantasy world. He has the ability to return to a specific point in time when he dies, which he uses to his advantage, though at the cost of experiencing the pain of dying over and over again, his mental state, and watching his friends die over and over again. He is known for his determination, and his love for Emilia, one of the main characters.",
+    "image": "subaru.png",
+    "link": "https://rezero.fandom.com/wiki/Natsuki_Subaru"
+  },
+  {
+    "id": 24,
+    "term": "Caden",
+    "excerpt": "A personal friend of mine.",
+    "description": "Caden (not his real name) is a personal friend of mine who I met in grade 2. So, he's someone I've known for a long time, and a very nice fella. One of his favourite characters is Shadow the Hedgehog, and he's really into games as a whole. He was also the first friend I made, which means a lot to me.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 25,
+    "term": "Bradley S.",
+    "excerpt": "A school aquaintance of mine.",
+    "description": "Bradley S. (not his real name) was a school aquaintance of mine all the way from elementary school to high school. It was the token sports kid, and into basketball specifically. He was a bit of a bully in elementary and middle school, but he grew out of it. We were never really friends, but when you go through that many years of school with someone, you come to like them to some extent, and we would talk occasionally.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 26,
+    "term": "Trucy Wright",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Trucy Wright is a character from the Ace Attorney series, the assistant to Apollo Justice, and the daughter of Phoenix Wright. She's a magician, and is known for her cheery personality, her love of magic, and her love for her father.",
+    "image": "trucy.png",
+    "link": "https://aceattorney.fandom.com/wiki/Trucy_Wright"
+  },
+  {
+    "id": 27,
+    "term": "Apollo Justice",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Apollo Justice is the main character of the fourth Ace Attorney game, Apollo Justice: Ace Attorney. He is a defense attorney, just like Phoenix Wright, and is known for his strong sense of justice, loud voice, and his ability to read people's emotion through their body language using his \"perceive\" ability.",
+    "image": "apollo.png",
+    "link": "https://aceattorney.fandom.com/wiki/Apollo_Justice"
+  },
+  {
+    "id": 28,
+    "term": "Klavier Gavin",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Klavier Gavin is the main prosecutor of the fourth Ace Attorney game, Apollo Justice: Ace Attorney. He is known for his rockstar persona, his love for music, and his rivalry with Apollo Justice. He is also the brother of Kristoph Gavin, an important character in the game.",
+    "image": "klavier.png",
+    "link": "https://aceattorney.fandom.com/wiki/Klavier_Gavin"
+  },
+  {
+    "id": 29,
+    "term": "Pamela",
+    "excerpt": "A personal friend of mine.",
+    "description": "Pamela (not her real name) is a personal friend of mine who I met in middle school, and the first friend I made who wasn't a guy. She's someone I was easily able to make friends with because of our shared interests in games, memes, and that sort of thing. She's a nice person, and we're still friends to this day.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 30,
+    "term": "Vern",
+    "excerpt": "A friend of a friend of mine.",
+    "description": "Vern (not their real name) is a friend of a friend of mine, who I met through my friend Pamela. They're quite a shy person. They're nice though, but I don't know how well we'd be able to keep a conversation going if we were alone together. They're mostly very close with Pamela, as they've known each other for a long time.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 31,
+    "term": "Lawtons Drugs",
+    "excerpt": "A drug store chain in Canada.",
+    "description": "Lawtons Drugs is a drug store chain in my home turf, Atlantic Canada. If you know what Sobeys is, it's a subsidiary of that. It's your standard drug store; pharamacy, some groceries, junk food, all of that kind of stuff. If you've been to a drug store, you know what it is.",
+    "image": "lawtons.png",
+    "link": "https://en.wikipedia.org/wiki/Lawtons"
+  },
+  {
+    "id": 32,
+    "term": "Scott the Woz",
+    "excerpt": "A YouTuber who makes videos about video games.",
+    "description": "Scott the Woz is a YouTuber who makes videos about video games, and has been doing so since 2012. He's known for his love of the Wii U, his comedy, as well as how he genuinely takes the topics he talks about seriously, even if they're jokes sometimes.",
+    "image": "scott_the_woz.png",
+    "link": "https://en.wikipedia.org/wiki/Scott_the_Woz"
+  },
+  {
+    "id": 33,
+    "term": "Nina",
+    "excerpt": "A personal friend of mine.",
+    "description": "Nina (not her real name) is a personal friend of mine who I met in grade 9. She gets nervous pretty easily, but is a nice person, and a good friend. We met through Pamela, since she was in a different class than me, but she quickly became a good friend, and a part of the friend group as a whole.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 34,
+    "term": "RelaxAlax",
+    "excerpt": "A YouTuber who makes videos about video games.",
+    "description": "RelaxAlax is a YouTuber who makes videos about video games in a comedic style. He also goes into more specific topics, such as video game music being sampled in other media. He's a YouTuber I used to watch a lot, and still do occasionally.",
+    "image": "relaxalax.png",
+    "link": "https://youtube.fandom.com/wiki/RelaxAlax"
+  },
+  {
+    "id": 35,
+    "term": "Mr. Physics 11",
+    "excerpt": "My grade 10 physics teacher.",
+    "description": "Mr. Physics 11 was my grade 10 physics teacher, but taught Physics 11 (long story short, you could take a course one level above your current grade), and a nice guy, but kind of a hard teacher. Still, that was mostly due to the subject, and even gave us two chances to do each test we had through the year. The only real complaint was that we once had to do a lab where we had to make the entire lab ourselves in pairs, and that didn't go so well. He was also a bit of a nerd, and some of our physics questions would have pop culture references in them, like to Star Wars or Marvel.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 36,
+    "term": "Sans",
+    "excerpt": "A character from the game Undertale.",
+    "description": "Sans is a character from the game Undertale, and is known for how much he loves puns, his laid-back personality, and his secretly serious side. From a personal perspective, I used to be obssesed with Sans specifically.",
+    "image": "sans.png",
+    "link": "https://en.wikipedia.org/wiki/Sans_%28Undertale%29"
+  },
+  {
+    "id": 37,
+    "term": "Undertale",
+    "excerpt": "A video game about a child who falls into the Underground.",
+    "description": "Undertale is a game made by Toby Fox, and released in 2015. It follows a child who falls into the Underground, a place where monsters were banished after a war with the humans. It's know for its unique combat system, where you can fight or spare monsters, which has a great effect on the story. It's also known for its music, and many other things, and is pretty popular on the internet.",
+    "image": "undertale.png",
+    "link": "https://en.wikipedia.org/wiki/Undertale"
+  },
+  {
+    "id": 38,
+    "term": "The Hate U Give",
+    "excerpt": "A book and movie about racism and police violence.",
+    "description": "The Hate U Give is a book by Angie Thomas, published in 2017, and later adapted into a film. It follows the story of Starr Carter, a young girl who witnesses the police shooting of her best friend. It was a book we read in middle school, and then went on to go on a field trip to a movie theater to see the movie.",
+    "image": "the_hate_u_give.png",
+    "link": "https://en.wikipedia.org/wiki/The_Hate_U_Give"
+  },
+  {
+    "id": 39,
+    "term": "Mario",
+    "excerpt": "A character from the Mario series of video games.",
+    "description": "Pretty much everyone knows who Mario is, but just in case, he's an Italian plumber who goes on adventures to save Princess Peach from Bowser, a giant turtle guy. He's the main character of the Mario games, and is known for his large amount of games, and esentially being the character who saved the video game industry in the 80s.",
+    "image": "mario.png",
+    "link": "https://en.wikipedia.org/wiki/Mario"
+  },
+  {
+    "id": 40,
+    "term": "Super Star",
+    "excerpt": "A power-up from the Mario series that makes Mario invincible.",
+    "description": "The Super Star is a power-up from the Mario series that makes Mario turn rainbow-colored, and invincible for a short time. It's been around since the first Super Mario Bros. game, and is known for the music that plays when you get it. In some iterations, Mario will be running so fast that his arms will be behind him.",
+    "image": "super_star.png",
+    "link": "https://www.mariowiki.com/Super_Star"
+  },
+  {
+    "id": 41,
+    "term": "Propeller Box",
+    "excerpt": "A power-up from the Mario series that allows Mario to fly.",
+    "description": "The Propeller Box is a power-up from the Mario series that allows Mario to fly upwards in 1 or 3 bursts, depending on the game, and then slowly glide downwards. It was first introduced in Super Mario 3D Land, but is based on the Propeller Mushroom from New Super Mario Bros. Wii. It is one of many flying power-ups from the Mario series.",
+    "image": "propeller_box.png",
+    "link": "https://www.mariowiki.com/Propeller_Box"
+  },
+  {
+    "id": 42,
+    "term": "Luigi",
+    "excerpt": "Mario's younger brother, and a character from the Mario series.",
+    "description": "Luigi is Mario's younger brother, and a character from the Mario series. He's known for how he's taller than Mario, his green outfit, and his scaredy-cat nature. He's often used as the second player in the Mario games, and was created with that purpose in mind, but since grew to become a character in his own right.",
+    "image": "luigi.png",
+    "link": "https://en.wikipedia.org/wiki/Luigi"
+  },
+  {
+    "id": 43,
+    "term": "Tanooki Suit",
+    "excerpt": "A power-up from the Mario series that allows Mario to turn into a raccoon.",
+    "description": "The Tanooki Suit is a power-up from the Mario series that allows Mario to turn into a raccoon, and fly for a short time depending on the game. It was first introduced in Super Mario Bros. 3, and is known for the ability to turn into a statue, which makes Mario invincible but unable to move. It is one of many flying power-ups from the Mario series.",
+    "image": "tanooki_suit.png",
+    "link": "https://www.mariowiki.com/Tanooki_Suit"
+  },
+  {
+    "id": 44,
+    "term": "Fruits Basket",
+    "excerpt": "A romance drama anime and manga series.",
+    "description": "Fruits Basket is a anime and mange series following Tohru Honda, who becomes involved with the Sohma family, a cursed family who each turn into different animals of the zodiac when hugged by a person of the opposite sex. Even though the curse runs deeper and darker than Tohru originally thought, her acceptance of the family and wanting to break the curse show what a kind person she is.",
+    "image": "fruits_basket.png",
+    "link": "https://en.wikipedia.org/wiki/Fruits_Basket"
+  },
+  {
+    "id": 45,
+    "term": "Jan",
+    "excerpt": "A personal friend of mine.",
+    "description": "Jan (not her real name) is a friend of mine who I met in middle school, but didn't really become friends with until high school. She didn't know how to function 'properly' (a sentiment she's admitted to herself) and was sick often, so we didn't really know how to interact with her. But, in late middle school we got to know her a little better, and we shared interest in anime and games, and then by high school, she was fully integrated into the friend group.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 46,
+    "term": "Mr. Philosophy",
+    "excerpt": "My high school Philosophy teacher.",
+    "description": "Mr. Philosophy was my teacher for Philosophy in high school. This was in grade 12, so I had most of my required credits to pass, I just needed to boost the total number of credits, so I picked Philosophy because my friend Nina took it the previous year and had fun. And it was fun, our teacher was a younger man who had a passion for the class, was honest with us, and let us fool around within reason.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 47,
+    "term": "Bradley M.",
+    "excerpt": "A school aquaintance of mine.",
+    "description": "Bradley M. (not his real name) was an aquaintance of mine I met in middle school through a mutual friend. He was your classic gun/truck/XBox guy; if you know, you know. He was the kind of guy who you bordered on not interacting with on a surface level on virtue of thinking he would do something \"rash\" if you catch my drift. In reality, though, he was just a fairly normal guy with interests that just made you raise an eyebrow slightly once you got to know him past a surface level.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 48,
+    "term": "Sam (Male)",
+    "excerpt": "A personal friend of mine.",
+    "description": "Sam (not his real name) was a friend of mine I met before I even started school, but I moved from that area, so we didn't meet again until middle school. We've since lost touch again after high school, but that happens. He was a pretty chill guy, and the person who introduced me to Bradley M.. To some degree, he was a more chilled out version of him, which I guess makes sense as to why they were friends.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 49,
+    "term": "Mr. High School English",
+    "excerpt": "My high school English teacher.",
+    "description": "Mr. High School English was my English teacher for all three years of high school, which was unusual for most. I didn't complain though, since he was one of my favourite teachers, and also taught me Global History in grade 12 as well. He was well like across pretty much every student who had him, as well, and was a middle aged fellow who was really chill. He enjoyed what he did, wanted his students to succeed, and understood that everyone didn't want to be there as well since he taught only required courses.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 50,
+    "term": "Rivals 60 EB Games Commercial",
+    "excerpt": "A commercial for EB Games in Canada that aired in 2014.",
+    "description": "The Rivals 60 EB Games Commercial is a commercial for the game store EB Games, known as GameStop in other parts of the world. It became a bit of a meme, but don't really have a personal connection to it, I just thought it was a good comparison to a dream element.",
+    "image": "eb_games.png",
+    "link": "https://youtu.be/80kDRoso_X8?si=gh6siONu7MNDXz3P"
+  },
+  {
+    "id": 51,
+    "term": "The Big Bang Theory",
+    "excerpt": "A sitcom about a group of nerdy friends.",
+    "description": "The Big Bang Theory is a sitcom that follows a group if stereo-typical nerds, and their interaction with each other. I've watched a fair bit of it, but it has a bad reputation and it deserves it. The memes that come from it are pretty funny though.",
+    "image": "big_bang_theory.png",
+    "link": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory"
+  },
+  {
+    "id": 52,
+    "term": "Super Smash Bros. Brawl",
+    "excerpt": "A fighting game featuring characters from various Nintendo franchises.",
+    "description": "Super Smash Bros. Brawl is a platform fighting game that released on the Wii in 2008. It was the third Super Smash Bros. game, and is known for its story mode, Subspace Emissary, its grittier art style, and being the first game to have third-party characters. It was also the first Super Smash Bros. game I played, and so I have a ton of nostalgia for it.",
+    "image": "super_smash_bros_brawl.png",
+    "link": "https://en.wikipedia.org/wiki/Super_Smash_Bros._Brawl"
+  },
+  {
+    "id": 53,
+    "term": "James",
+    "excerpt": "A personal friend of mine.",
+    "description": "James (not his real name) is a personal friend of mine, and we met all the way back in grade 2. That's to say, we've known each other for a long time. He's a bit of a weird fella, but we're weird in a lot of the same ways, so that works out well. We both also look pretty similar, and his mother said we could be brothers more than once. I could probably even use his real name, but I won't just to be ultra safe, and for the sake of consistency.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 54,
+    "term": "James' Mom",
+    "excerpt": "The mother of my friend James.",
+    "description": "James' Mom, is, well, the mother of my friend James. She's a nice lady, and since I've been friends with James for so long, I've known her for a long time as well. She's kind of weird in a slightly different way than James, but I guess that explains how it was handed down.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 55,
+    "term": "Wii U",
+    "excerpt": "A home video game console by Nintendo.",
+    "description": "The Wii U is a video game console made by Nintendo, and released in 2012. It was the sequel to the Wii, and had a tablet-like controller with a screen on it. It sold horribly, though, and was only liked for the games, which most of them eventually got ported to the Nintendo Switch. It's nostalgic for me, because although I didn't have one when it was popular, my friend James did, so we played it a lot at his house.",
+    "image": "wii_u.png",
+    "link": "https://en.wikipedia.org/wiki/Wii_U"
+  },
+  {
+    "id": 56,
+    "term": "New Super Mario Bros. U",
+    "excerpt": "A side-scrolling platformer game for the Wii U.",
+    "description": "New Super Mario Bros. U is a side-scrolling platformer game for the Wii U, and the fourth game in the New Super Mario Bros. series. It released in 2012, and although not a bad game, most people consider it the worst due to being so similar to the previous games in the series.",
+    "image": "new_super_mario_bros_u.png",
+    "link": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros._U"
+  },
+  {
+    "id": 57,
+    "term": "Super Mario 3D World",
+    "excerpt": "A 3D platformer game for the Wii U.",
+    "description": "Super Mario 3D World is a 3D platformer game for the Wii U, and the sixth mainline 3D Mario game. It released in 2013, and is most known for being the first 3D Mario game to have a proper multiplayer mode. It was also one of the first games I got when I eventually got a Wii U.",
+    "image": "super_mario_3d_world.png",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_3D_World"
+  },
+  {
+    "id": 58,
+    "term": "The Super Mario Bros. Movie",
+    "excerpt": "A 2023 animated film based on the Super Mario series.",
+    "description": "The Super Mario Bros. Movie is a 2023 animated film based on the Super Mario series, made by Illumination Entertainment. Mario and Luigi get transported to the Mushroom Kingdom from Brooklyn, and have to save Princess Peach from Bowser.",
+    "image": "the_super_mario_bros_movie.png",
+    "link": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie"
+  },
+  {
+    "id": 59,
+    "term": "The McDonald Family",
+    "excerpt": "A family of three that I knew when I was younger.",
+    "description": "The McDonald (not their real name) family was a family of three, a mother, daughter, and son, who we lived next to when I was younger. This was elementary school era, so I can't really comment on their personalities, but if if didn't live next to them, I definitely wouldn't have been friends with the kids. We were basically friends because we were neighbors, and our parents were friends.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 60,
+    "term": "Hatsune Miku",
+    "excerpt": "A virtual pop star from Japan.",
+    "description": "Hatsune Miku is a virtual pop star from Japan, and is a Vocaloid, which is a singing synthesizer software. She was created by Crypton Future Media, and is known for her blue hair, twin tails, and concerts in which she appears as a hologram.",
+    "image": "hatsune_miku.png",
+    "link": "https://en.wikipedia.org/wiki/Hatsune_Miku"
+  },
+  {
+    "id": 61,
+    "term": "Captain Canuck",
+    "excerpt": "A Canadian comic book superhero.",
+    "description": "Captain Canuck is a Canadian comic book superhero, and esentially the Canadian version of Captain America. I don't really know much about him other than that. I only read one comic with him in it, and that was aparently enough to make him appear in a dream.",
+    "image": "captain_canuck.png",
+    "link": "https://en.wikipedia.org/wiki/Captain_Canuck"
+  },
+  {
+    "id": 62,
+    "term": "Captain America",
+    "excerpt": "A comic book superhero from Marvel Comics.",
+    "description": "Captain America is a comic book superhero from Marvel Comics, and is most known for being the leader of the Avengers, and his iconic shield. Because of the Marvel Cinematic Universe, pretty much everyone knows at least a little about him.",
+    "image": "captain_america.png",
+    "link": "https://en.wikipedia.org/wiki/Captain_America"
+  },
+  {
+    "id": 63,
+    "term": "DIO",
+    "excerpt": "A character from the manga and anime series JoJo's Bizarre Adventure.",
+    "description": "DIO is a character from the manga and anime series JoJo's Bizarre Adventure. He is the main antagonist of the first and third parts of the series, and is a vampire with an extremely strong Stand, The World, which has an ability that I won't say for the sake of spoilers.",
+    "image": "dio.png",
+    "link": "https://en.wikipedia.org/wiki/Dio_Brando"
+  },
+  {
+    "id": 64,
+    "term": "JoJo's Bizarre Adventure",
+    "excerpt": "An anime and manga series that follows the Joestar family.",
+    "description": "JoJo's Bizarre Adventure is an anime and manga series that follows the Joestar family through multiple generations. Each part of the series follows a different member of the family as they're fated to keep fighthing against the forces of evil, using either their Stand, a manifestation of their fighting spirit, or Hamon, a breathing technique that channels the power of the sun.",
+    "image": "jojos_bizarre_adventure.png",
+    "link": "https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
+  },
+  {
+    "id": 65,
+    "term": "Jotaro Kujo",
+    "excerpt": "A character from the manga and anime series JoJo's Bizarre Adventure.",
+    "description": "Jotaro Kujo is a character from the manga and anime series JoJo's Bizarre Adventure, and is the main protagonist of a group of characters in the third part, Stardust Crusaders. He's known for his stoic personality, and his Stand, Star Platinum, which had incredible strength, speed, and precision.",
+    "image": "jotaro_kujo.png",
+    "link": "https://en.wikipedia.org/wiki/Jotaro_Kujo"
+  },
+  {
+    "id": 66,
+    "term": "Star Platinum",
+    "excerpt": "A Stand from the anime and manga series JoJo's Bizarre Adventure.",
+    "description": "Star Platinum is the Stand ability of Jotaro Kujo, the main protagonist of the third part of JoJo's Bizarre Adventure, Stardust Crusaders. It's known for its incredible strength, speed, and precision, as well as another ability that I won't say for the sake of spoilers.",
+    "image": "star_platinum.png",
+    "link": "https://jojowiki.com/Star_Platinum"
+  },
+  {
+    "id": 67,
+    "term": "Pokémon",
+    "excerpt": "A video game franchise about catching creatures called Pokémon.",
+    "description": "Pokémon is a video game franchise created by Satoshi Tajiri and Ken Sugimori about catching different types of creatures called Pokémon. It's grown to become one of the most popular and successful franchises worldwide between video games, trading cards, merchandise, movies, and more.",
+    "image": "pokemon.png",
+    "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon"
+  },
+  {
+    "id": 68,
+    "term": "Pokémon Planet",
+    "excerpt": "A free-to-play MMORPG based on the Pokémon franchise.",
+    "description": "Pokémon Planet is a free-to-play massively multiplayer online role-playing game (MMORPG) based on the Pokémon franchise. It's basically a multiplayer version of the first 5 Pokémon regions, Kanto, Johto, Hoenn, Sinnoh, and Unova, with some extra content. I used to play it a lot back in the day, and I go back to it every once in a while. It has since been rebranded to Pokénexus, but it's still Pokémon Planet to me.",
+    "image": "pokemon_planet.png",
+    "link": "https://poke-nexus.com/"
+  },
+  {
+    "id": 69,
+    "term": "Tim Hortons",
+    "excerpt": "A Canadian coffee and fast food restaurant chain.",
+    "description": "Tim Hortons is a Canadian coffee and fast food restaurant chain, and is one of the most popular fast food chains in Canada. It's mostly known for its coffee and Timbits (doughnut holes), but it also sells a variety of food and drinks. If you only know a few things about Canada, this is probably one of them.",
+    "image": "tim_hortons.png",
+    "link": "https://en.wikipedia.org/wiki/Tim_Hortons"
+  },
+  {
+    "id": 70,
+    "term": "Cerulean City",
+    "excerpt": "A city in the Pokémon franchise.",
+    "description": "Cerulean City is a city in the Pokémon franchise, specifically in the first Pokémon region, Kanto. It's known for Misty, the Gym Leader of the Cerulean City Gym, which specializes in Water-type Pokémon.",
+    "image": "cerulean_city.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Cerulean_City"
+  },
+  {
+    "id": 71,
+    "term": "Cascade Badge",
+    "excerpt": "A badge from the Pokémon franchise.",
+    "description": "The Cascade Badge is a badge from the Pokémon franchise, specifically from the first Pokémon region, Kanto. It's awarded to trainers who defeat Misty, and one of the first badges a Pokémon trainer can earn.",
+    "image": "cascade_badge.png",
+    "link": "https://pokemon.fandom.com/wiki/Cascade_Badge"
+  },
+  {
+    "id": 72,
+    "term": "Mx. Middle School Math",
+    "excerpt": "My middle school math teacher.",
+    "description": "Mx. Middle School Math was my Math teacher for grade 7 and 9, and also Health 8. They were pretty nice, and between being gender neutral, and teaching Health, they were pretty progressive, and wanted to make sure everyone knew about some of the more uncomfortable topics in Health.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 73,
+    "term": "Miss Caretaker of Sunohara-sou",
+    "excerpt": "An anime and manga series about a kid who moves into a boarding house.",
+    "description": "Miss Caretaker of Sunohara-sou is an anime and manga series about Aki Shiina, a young man who is very shy and feminine, who moves into a boarding house to try and reaffirm his masculinity. I watched it a long while ago now, and it wasn't very good. I have a bias towards rom-com anime, but even with that I think I still gave it like a 4/10. It was just kind of boring, and \"weird\" in the bad way anime tends to be sometimes.",
+    "image": "miss_caretaker_of_sunohara_sou.png",
+    "link": "https://en.wikipedia.org/wiki/Miss_Caretaker_of_Sunohara-sou"
+  },
+  {
+    "id": 74,
+    "term": "Diesel 10",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Diesel 10 is a character from the Thomas & Friends franchise, and is a diesel engine with a large claw on his roof called Pinchy. I grew up with Thomas & Friends, and specifically the movie he comes from, Thomas and the Magic Railroad, so I have a lot of nostalgia for this character. He was also pretty terrifying to kid me, to the point that I felt uncomfortable watching the movie alone for a while.",
+    "image": "diesel_10.png",
+    "link": "https://ttte.fandom.com/wiki/Diesel_10"
+  },
+  {
+    "id": 75,
+    "term": "Thomas and the Magic Railroad",
+    "excerpt": "The first movie in the Thomas & Friends franchise.",
+    "description": "Thomas and the Magic Railroad is the first movie in the Thomas & Friends franchise, and follows Thomas the Tank Engine, as well as some human charaters, as they try to save the Magic Railroad from Diesel 10, who wants to destroy it. This movie is extremely nostalgic for me, and I watched it over and over again as a kid (I even had 2 VHS copies of it!). It's not a great movie, but the memories alone carry it for me.",
+    "image": "thomas_and_the_magic_railroad.png",
+    "link": "https://en.wikipedia.org/wiki/Thomas_and_the_Magic_Railroad"
+  },
+  {
+    "id": 76,
+    "term": "Vegeta",
+    "excerpt": "A character from the Dragon Ball franchise.",
+    "description": "Vegeta is a character from the Dragon Ball franchise, and is the prince of the Saiyan race. He started as an antagonist in the series, but eventually became one of the main characters, though not necessarily a good guy. He's known for his pride, his rivalry with Goku, and his strategic ability in battle.",
+    "image": "vegeta.png",
+    "link": "https://en.wikipedia.org/wiki/Vegeta"
+  },
+  {
+    "id": 77,
+    "term": "Oliver",
+    "excerpt": "A personal friend of mine.",
+    "description": "Oliver (not his real name) is a personal friend of mine who I met in high school through my friend Nina. He's a pretty chill guy, and one of the first two friends I made in high school. He's a bit of a history enjoyer, and of Itallian descent, so that's something we would all joke about. He was also probably the most normal person (along side Mat) in our friend group, but that's not saying much. He was also friends with Mat before all of us, so they were a bit of a pair.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 78,
+    "term": "Mat",
+    "excerpt": "A personal friend of mine.",
+    "description": "Mat (not his real name) is a personal friend of mine who I met in high school through my friend Nina. He was also friends with Oliver before all of us. He's a pretty child fella, and it would be rare to not see him drawing something. Some of my other friends are artists, too, but Mat along side James were probably the ones I saw drawing the most in high school for one reason or another. He's also pretty smart as well, and along with Oliver, we were in the same Math class in grade 12.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 79,
+    "term": "Goku",
+    "excerpt": "A character from the Dragon Ball franchise.",
+    "description": "Goku is the main character of the Dragon Ball franchise, and a Saiyan who was sent to Earth as a baby to destroy it, but instead became its greatest protector. He's known for his cheerful personality, love of fighting, love of food, and his different transformations.",
+    "image": "goku.png",
+    "link": "https://en.wikipedia.org/wiki/Goku"
+  },
+  {
+    "id": 80,
+    "term": "Mary Jane Watson",
+    "excerpt": "A character from the Spider-Man franchise.",
+    "description": "Mary Jane Watson is a character from the Spider-Man franchise, and is one of Peter Parker (Spider-Man)'s love interests. She's known for her red hair, her modeling career, and her strong-willed personality.",
+    "image": "mary_jane_watson.png",
+    "link": "https://en.wikipedia.org/wiki/Mary_Jane_Watson"
+  },
+  {
+    "id": 81,
+    "term": "Spider-Man (Series)",
+    "excerpt": "A comic book superhero from Marvel Comics.",
+    "description": "The Spider-Man series is a comic book superhero series from Marvel Comics, and follows Peter Parker (Spider-Man) as he battles various villains. A big part of the series is his relationships with other characters, and how he tries to balance his life as a superhero with his personal life.",
+    "image": "spider_man_series.png",
+    "link": "https://en.wikipedia.org/wiki/Spider-Man"
+  },
+  {
+    "id": 82,
+    "term": "Thomas & Friends",
+    "excerpt": "A children's television series about talking trains.",
+    "description": "Thomas & Friends is a children's television series about talking trains, and based on the Railway Series books by the Rev. W. Awdry. I have a lot of nostalgia for the series, and it was a huge part of my childhood. I specifically enjoyed the seasons of the show that used models instead of CGI because I grew up with them, and thought they were way cooler.",
+    "image": "thomas_and_friends.png",
+    "link": "https://en.wikipedia.org/wiki/Thomas_%26_Friends"
+  },
+  {
+    "id": 83,
+    "term": "Red (Angry Birds)",
+    "excerpt": "A character from the Angry Birds franchise.",
+    "description": "Red is the main character of the Angry Birds franchise, and is known for his red colour, and angry personality. He's the most basic of the birds, being one of the first birds introduced in the franchise, and not having any special abilities.",
+    "image": "red_angry_birds.png",
+    "link": "https://angrybirds.fandom.com/wiki/Red"
+  },
+  {
+    "id": 84,
+    "term": "Angry Birds",
+    "excerpt": "A mobile game franchise about birds trying to get back their eggs.",
+    "description": "Angry Birds is a mobile game franchise about birds trying to get back their eggs from the evil pigs. It's known for its simple gameplay, where you launch birds at structures to destroy them, and its various spin-offs and merchandise.",
+    "image": "angry_birds.png",
+    "link": "https://en.wikipedia.org/wiki/Angry_Birds"
+  },
+  {
+    "id": 85,
+    "term": "CBC",
+    "excerpt": "The Canadian Broadcasting Corporation, a Canadian public broadcaster.",
+    "description": "CBC is the Canadian Broadcasting Corporation, a Canadian public broadcaster. If you're Canadian and have used cable TV, you know what it is. If you're not Canadian, you probably have some sort of equivalent in your country, like the BBC in the UK for example.",
+    "image": "cbc.png",
+    "link": "https://en.wikipedia.org/wiki/Canadian_Broadcasting_Corporation#/media/File:CBC_logo.svg"
+  },
+  {
+    "id": 86,
+    "term": "Arc",
+    "excerpt": "A story that I work on in my free time sometimes.",
+    "description": "I like writing as a passtime, and that I've been working on off and on for a while is called Arc. It's called Arc one of the main characters is named Arcueid Brunestud, and she's named that because I'm really into Tsukihime, couldn't think of a better name, and then made the foolish mistake of getting attached to it. It's a slice of life story, though, and follows Shiki and his friend group just living life, and finishing their last year of high school. It's not really meant to be anything special, and I don't know if I'll even share it, but it's just something comforting to work on.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 87,
+    "term": "Arcueid Brunestud (Arc)",
+    "excerpt": "A character from a story I work on in my free time sometimes.",
+    "description": "Arcueid Brunestud is a character from a story I work on in my free time sometimes called Arc. She's named as such because I'm really into Tsukihime, couldn't think of a better name, and then made the mistake of getting attached to it. Other than appearance and name, she's not really like Arcueid from Tsukihime, though.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 88,
+    "term": "PlayStation 2",
+    "excerpt": "A home video game console by Sony.",
+    "description": "The PlayStation 2 is a home video game console made by Sony, and released in 2000. It was a huge success, and is the best-selling video game console of all time. I specifically have the silver slim model, and got it from my dad for one of my graduation presents. I didn't get that many games for it, but I really didn't care at all since I got Final Fantasy 7, and it could play DVDs.",
+    "image": "playstation_2.png",
+    "link": "https://en.wikipedia.org/wiki/PlayStation_2"
+  },
+  {
+    "id": 89,
+    "term": "SNES",
+    "excerpt": "A home video game console by Nintendo.",
+    "description": "The SNES is a home video game console made by Nintendo, and released in 1990. It was the successor to the NES, and is known for its incredible games, and competition with the Sega Genesis. As a Nintendo fan born in the mid 2000s, I didn't grow up with the SNES itself, but I did play SNES games on the original Xbox if you catch my drift. For that alone, it's my favourite console, and when I did eventually get an original one, it was the last console I needed to complete my collection of Nintendo home consoles.",
+    "image": "snes.png",
+    "link": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System"
+  },
+  {
+    "id": 90,
+    "term": "The Quintessential Quintuplets",
+    "excerpt": "A romantic comedy anime and manga series.",
+    "description": "The Quintessential Quintuplets is a romantic comedy anime and manga series that follows the Nakano sisters, a set of quintuplets who all don't have the best grades, so their tutor, Uesugi Fuutarou, has to help them improve. It's pretty enjoyable, and although I can't say for the anime since I haven't watched the movie yet, the manga is probably in my top 15 manga of all time, maybe top 10.",
+    "image": "the_quintessential_quintuplets.png",
+    "link": "https://en.wikipedia.org/wiki/The_Quintessential_Quintuplets"
+  },
+  {
+    "id": 91,
+    "term": "Timbits",
+    "excerpt": "A type of doughnut hole sold by Tim Hortons.",
+    "description": "Timbits are basically just doughnut holes, but they're from Tim Hortons, so they get a different name. I guess you could also call them illogical in the aspect that they don't actually come from the middle of the doughnut. For example, there is a powdered and jelly-filled Timbit, but the doughnut itself doesn't have a hole in the middle.",
+    "image": "timbits.png",
+    "link": "https://en.wikipedia.org/wiki/Timbits"
+  },
+  {
+    "id": 92,
+    "term": "The Furukawa Bakery",
+    "excerpt": "A bakery from the anime, manga, and visual novel series Clannad.",
+    "description": "The Furukawa Bakery is a bakery from the anime, manga, and visual novel series Clannad. It's the home of Nagisa Furukawa, one of the main characters, and her family. The bakery is an important location in the series, and Tomoya Okazaki, the main character, even worked there for a short time.",
+    "image": "the_furukawa_bakery.png",
+    "link": "https://clannad.fandom.com/wiki/Furukawa_Bread"
+  },
+  {
+    "id": 93,
+    "term": "Futurama",
+    "excerpt": "An adult animated sitcom set in the future.",
+    "description": "Futurama is an adult animated sitcom set in the future, created by Matt Groening, the creator of The Simpsons. It follows Fry who is accidentally frozen in 1999, and wakes up in the year 3000. He then joins the Planet Express delivery company, and goes on various deliveries which result in wacky future antics.",
+    "image": "futurama.png",
+    "link": "https://en.wikipedia.org/wiki/Futurama"
+  },
+  {
+    "id": 94,
+    "term": "Turanga Leela",
+    "excerpt": "A character from the animated series Futurama.",
+    "description": "Leela is a character from the animated series Futurama, and is the captain of the Planet Express ship. She's known for her purple hair, one eye, and strong-willed personality. She's also Fry's love interest in the series.",
+    "image": "leela.png",
+    "link": "https://en.wikipedia.org/wiki/Leela_(Futurama)"
+  },
+  {
+    "id": 95,
+    "term": "Miho Azuki",
+    "excerpt": "A character from the anime and manga series Bakuman.",
+    "description": "Miho Azuki is a character from the anime and manga series Bakuman, and is the main love interest of Mashiro Moritaka, one of the main characters. She's known for her long brown hair, and her dream of becoming a voice actress.",
+    "image": "miho_azuki.png",
+    "link": "https://bakuman.fandom.com/wiki/Miho_Azuki"
+  },
+  {
+    "id": 96,
+    "term": "Bakuman",
+    "excerpt": "An anime and manga series about two aspiring manga artists.",
+    "description": "Bakuman is an anime and manga series about two aspiring manga artists, Mashiro Moritaka and Akito Takagi, who want to become successful in the manga industry. They work together and make various manga series, while also dealing with the challenges that come with the industry.",
+    "image": "bakuman.png",
+    "link": "https://en.wikipedia.org/wiki/Bakuman"
+  },
+  {
+    "id": 97,
+    "term": "Home Alone",
+    "excerpt": "A Christmas comedy film about a young boy who is left home alone.",
+    "description": "Home Alone is a Christmas comedy film about a young boy named Kevin McCallister who is accidentally left behind when his family goes on vacation. He ends up having to defend his home from two burglars, and uses various tricks and traps to do so.",
+    "image": "home_alone.png",
+    "link": "https://en.wikipedia.org/wiki/Home_Alone"
+  },
+  {
+    "id": 98,
+    "term": "Kouko Ibuki",
+    "excerpt": "A character from the anime and visual novel series Clannad.",
+    "description": "Kouko Ibuki is a character from the anime and visual novel series Clannad. She was a teacher, and helped Nagisa Furukawa, one of the main characters, through her early years of high school. She's kind and caring, especially towards Nagisa, Tomoya, and her sister.",
+    "image": "kouko_ibuki.png",
+    "link": "https://clannad.fandom.com/wiki/Kouko_Ibuki"
+  },
+  {
+    "id": 99,
+    "term": "Darkstalkers",
+    "excerpt": "A fighting game franchise by Capcom.",
+    "description": "Darkstalkers is a fighting game franchise by Capcom, also known as Vampire in Japan. It features various supernatural creatures, such as vampires, succubi, werewolves, mummies, and more as the playable characters. It used to be quite obscure, but with collection releases and characters appearing in other games, it's pretty well known now.",
+    "image": "darkstalkers.png",
+    "link": "https://en.wikipedia.org/wiki/Darkstalkers"
+  },
+  {
+    "id": 100,
+    "term": "Morrigan Aensland",
+    "excerpt": "A character from the Darkstalkers franchise.",
+    "description": "Morrigan Aensland is a character from the Darkstalkers franchise, and often considered the mascot of the series. She's a succubus, and is known for her supernatural powers, and seductive and teasing personality. She's one of the most popular characters in the franchise, and the go to character to represent the series.",
+    "image": "morrigan_aensland.png",
+    "link": "https://en.wikipedia.org/wiki/Morrigan_Aensland"
+  },
+  {
+    "id": 101,
+    "term": "Game of Thrones",
+    "excerpt": "A fantasy television series based on the A Song of Ice and Fire novels.",
+    "description": "Game of Thrones is a fantasy television series based on the A Song of Ice and Fire novels by George R. R. Martin. It follows the various noble families of Westeros as they vie for control of the Iron Throne, and the Seven Kingdoms. It's known for its complex characters, political intrigue, and shocking plot twists.",
+    "image": "game_of_thrones.png",
+    "link": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+  },
+  {
+    "id": 102,
+    "term": "George Costanza",
+    "excerpt": "A character from the sitcom Seinfeld.",
+    "description": "George Costanza is a character from the sitcom Seinfeld, and is one of the main 4 characters of the show. He's known for his neurotic personality, and his various schemes and lies that often backfire on him.",
+    "image": "george_costanza.png",
+    "link": "https://en.wikipedia.org/wiki/George_Costanza"
+  },
+  {
+    "id": 103,
+    "term": "Seinfeld",
+    "excerpt": "A sitcom from the 90s about a group of friends living in New York City.",
+    "description": "Seinfeld is a sitcom from the 90s about a group of friends living in New York City, and their various misadventures. It's known for its observational humor, cultural impact, and being titled a \"show about nothing\".",
+    "image": "seinfeld.png",
+    "link": "https://en.wikipedia.org/wiki/Seinfeld"
+  },
+  {
+    "id": 104,
+    "term": "The Legend of Zelda: Breath of the Wild",
+    "excerpt": "An open-world action-adventure game by Nintendo.",
+    "description": "The Legend of Zelda: Breath of the Wild is an open-world action-adventure game by Nintendo. It was released in 2017, and is the first mainline Zelda game to be truly open-world. It was a huge success, and is considered one of the best games of all time. I'm not really a 3D Zelda guy, but this is the one exception.",
+    "image": "breath_of_the_wild.png",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+  },
+  {
+    "id": 105,
+    "term": "Zelda (Breath of the Wild)",
+    "excerpt": "A character from the game The Legend of Zelda: Breath of the Wild.",
+    "description": "Zelda is a character from the game The Legend of Zelda: Breath of the Wild, and is the titular princess of Hyrule. She's known for her intelligence, determination, and her role in sealing away Calamity Ganon. She's also one of the main characters in the game, and plays a crucial role in the story.",
+    "image": "zelda_breath_of_the_wild.png",
+    "link": "https://www.zeldadungeon.net/wiki/Zelda_(Breath_of_the_Wild)"
+  },
+  {
+    "id": 186,
+    "term": "SungWon Cho",
+    "excerpt": "A voice actor, comedian, and YouTuber known as ProZD.",
+    "description": "SungWon Cho, also known as ProZD on YouTube, is a voice actor, comedian, and YouTuber known for his comedic skits, and voice acting work in various video games and anime. You've most likely seen at least one of his skits since they were the perfect recipe for viral content a while back. He also made an appearance in the movie Blackberry.",
+    "image": "sungwon_cho.png",
+    "link": "https://en.wikipedia.org/wiki/SungWon_Cho"
+  },
+  {
+    "id": 187,
+    "term": "Animal Crossing",
+    "excerpt": "A life simulation video game series by Nintendo.",
+    "description": "Animal Crossing is a life simulation video game series by Nintendo, where players live in a village inhabited by anthropomorphic animals, and engage in various activities such as fishing, bug catching, and decorating their homes. It's known for its relaxing gameplay, charming characters, and seasonal events.",
+    "image": "animal_crossing.png",
+    "link": "https://en.wikipedia.org/wiki/Animal_Crossing"
+  },
+  {
+    "id": 188,
+    "term": "Haley Dunphy",
+    "excerpt": "A character from the sitcom Modern Family.",
+    "description": "Haley Dunphy is a character from the sitcom Modern Family, and is the eldest daughter of Claire and Phil Dunphy. She's known for her popularity, fashion sense, and her sometimes ditzy personality. She has a close relationship with her younger sister Alex, and often gets into various comedic situations.",
+    "image": "haley_dunphy.png",
+    "link": "https://modernfamily.fandom.com/wiki/Haley_Marshall"
+  },
+  {
+    "id": 189,
+    "term": "Modern Family",
+    "excerpt": "A sitcom about a family living in Los Angeles.",
+    "description": "Modern Family is a sitcom about a family living in Los Angeles, and follows the lives of the Pritchett-Dunphy-Tucker clan. It's known for its mockumentary style, diverse cast, and humorous take on modern family life. The show has received critical acclaim, and has won numerous awards.",
+    "image": "modern_family.png",
+    "link": "https://en.wikipedia.org/wiki/Modern_Family"
+  }
+]
