@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <a href="all-dreams.html">All Dreams</a>
       <a href="glossary.html">Glossary</a>
       <a href="#" id="random-dream">Random Dream</a>
+      <a href="dream-graveyard.html">Dream Graveyard</a>
     </nav>
   `;
   document.body.insertAdjacentHTML("afterbegin", navHTML);
