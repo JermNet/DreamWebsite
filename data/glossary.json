@@ -966,5 +966,173 @@
     "description": "Golden Bananas are a collectible item in the game Donkey Kong 64. They're used to unlock new areas, and progress through the game. Each of the five playable Kongs has their own set of Golden Bananas to collect, and they can be found in various locations throughout DK Island.",
     "image": "golden_banana.gif",
     "link": "https://donkeykong.fandom.com/wiki/Golden_Banana"
+  },
+  {
+    "id": 201,
+    "term": "Daniel",
+    "excerpt": "A personal friend of mine.",
+    "description": "Daniel (not his real name) was a personal friend of mine who I met in middle school. Along with Victor, we were part of a special class for \"smart kids\" which we didn't really care about, but we ended up being friends because of it. We also ended up working as a trio a lot of times because of it, and we even ended up creating a 100 page manga together in grade 9 for a big project. I don't have a scanner, but maybe I'll take pictures and share it someday (big maybe since it's kind of cringe).",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 202,
+    "term": "Thomas Wooden Railway",
+    "excerpt": "A wooden toy train line based on the Thomas & Friends franchise.",
+    "description": "Thomas Wooden Railway is a wooden toy train line based on the Thomas & Friends franchise. It was made by Learning Curve, and was one of the most popular toy train lines in the early 2000s. I had a lot of these toys as a kid, and of the different Thomas toy lines, this was either my favourite or tied with the motorized lines. There was also a lead paint scandal with some of the toys, and I think I still have some of the lead ridden toys.",
+    "image": "thomas_wooden_railway.png",
+    "link": "https://thomaswoodenrailway.fandom.com/wiki/Thomas_Wooden_Railway"
+  },
+  {
+    "id": 203,
+    "term": "EB Games",
+    "excerpt": "A video game retailer in Canada.",
+    "description": "EB Games is a video game retailer in Canada, and is a subsidiary of GameStop. It's known for selling new and used video games, consoles, and accessories. It is basically the Canadian equivalent of GameStop with a different name for some reason.",
+    "image": "eb_games.png",
+    "link": "https://en.wikipedia.org/wiki/EB_Games"
+  },
+  {
+    "id": 204,
+    "term": "Kid Icarus Uprising",
+    "excerpt": "An action-adventure game by Nintendo.",
+    "description": "Kid Icarus Uprising is an action-adventure game by Nintendo, and was released for the Nintendo 3DS in 2012. It follows Pit, the main character, as he battles various enemies and bosses to save the world from the forces of darkness. The game is known for its fast-paced gameplay, unique control scheme, and humorous writing.",
+    "image": "kid_icarus_uprising.png",
+    "link": "https://en.wikipedia.org/wiki/Kid_Icarus:_Uprising"
+  },
+  {
+    "id": 205,
+    "term": "Steam",
+    "excerpt": "A digital distribution platform for video games.",
+    "description": "Steam is a digital distribution platform for video games, developed by Valve Corporation. It was launched in 2003, and has since become the largest digital distribution platform for PC gaming. It offers a wide variety of games, as well as features such as cloud saves, achievements, and community features.",
+    "image": "steam.png",
+    "link": "https://simple.wikipedia.org/wiki/Steam_%28service%29"
+  },
+  {
+    "id": 206,
+    "term": "Nintendo Wii",
+    "excerpt": "A home video game console by Nintendo.",
+    "description": "The Nintendo Wii is a home video game console by Nintendo, and was released in 2006. It was a huge success, and is known for its innovative motion controls, and family-friendly games. The Wii was first ever new video game console, and I think my second console overall after the original Xbox. As a result, I have a lot of nostalgia for it and its games.",
+    "image": "nintendo_wii.png",
+    "link": "https://en.wikipedia.org/wiki/Wii"
+  },
+  {
+    "id": 207,
+    "term": "Shonen Jump",
+    "excerpt": "A Japanese manga magazine published by Shueisha.",
+    "description": "Shonen Jump is a Japanese manga magazine published by Shueisha, and is known for serializing popular shonen manga series such as Naruto, One Piece, and Dragon Ball. It has been in publication since 1968, and has become one of the most popular manga magazines in Japan. I have about 5 dozen issues of the English version of the magazine from 2003 to 2011 that I got for about 30 dollars, and it's quite the interesting experience to see what manga in North America was like back then.",
+    "image": "shonen_jump.png",
+    "link": "https://en.wikipedia.org/wiki/Shonen_Jump_(magazine)"
+  },
+  {
+    "id": 208,
+    "term": "The Simpsons Movie",
+    "excerpt": "An animated comedy film based on the television series The Simpsons.",
+    "description": "The Simpsons Movie is an animated comedy film based on the television series The Simpsons. It was released in 2007, and follows the Simpson family as they try to save Springfield from being destroyed by a giant dome. The DVD for it was one of the first DVDs I bought myself when I started collecting them, and let's just say that you know it's a good DVD when it has more than one commentary track.",
+    "image": "the_simpsons_movie.png",
+    "link": "https://en.wikipedia.org/wiki/The_Simpsons_Movie"
+  },
+  {
+    "id": 209,
+    "term": "Yoshi",
+    "excerpt": "A character from the Mario franchise.",
+    "description": "Yoshi is a character from the Mario franchise, and is Mario's dinosaur companion. He's known for his green colour, long tongue, and ability to eat enemies and turn them into eggs. Yoshi has appeared in many games in the franchise, and has multiple spin-off franchises.",
+    "image": "yoshi.png",
+    "link": "https://en.wikipedia.org/wiki/Yoshi"
+  },
+  {
+    "id": 210,
+    "term": "Nintendo GameCube",
+    "excerpt": "A home video game console by Nintendo.",
+    "description": "The Nintendo GameCube is a home video game console by Nintendo, and was released in 2001. It was the first Nintendo console to use optical discs, and is known for its unique design, and strong library of games. I have fond memories of playing the first level of Sonic Adventure DX over and over again on my Wii due to lack of a memory card.",
+    "image": "nintendo_gamecube.png",
+    "link": "https://en.wikipedia.org/wiki/GameCube"
+  },
+  {
+    "id": 211,
+    "term": "Pokémon Southern Islands",
+    "excerpt": "A Pokémon trading card set.",
+    "description": "Pokémon Southern Islands is a Pokémon trading card set, and was released in 2001. It features various Pokémon from the first two generations, and is known for its unique artwork, and being one of the first sets to feature cards with multiple Pokémon on them.",
+    "image": "pokemon_southern_islands.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Southern_Islands_(TCG)"
+  },
+  {
+    "id": 212,
+    "term": "Pokémon Jungle",
+    "excerpt": "A Pokémon trading card set.",
+    "description": "Pokémon Jungle is a Pokémon trading card set, and was released in 1999. It was the second set in the Pokémon Trading Card Game, and features various Pokémon from the first generation.",
+    "image": "pokemon_jungle.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Jungle_(TCG)"
+  },
+  {
+    "id": 213,
+    "term": "Water Energy",
+    "excerpt": "A Pokémon energy type from the card game.",
+    "description": "Water Energy is a type of energy from the Pokémon card game which is used to represent both the water and ice types from the actual Pokémon games. Energy cards in general are used as the \"cost\" of using the moves of a Pokémon.",
+    "image": "water_energy.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Basic_Water_Energy_%28TCG%29"
+  },
+  {
+    "id": 214,
+    "term": "Colourless Energy",
+    "excerpt": "A Pokémon energy type from the card game.",
+    "description": "Colourless energy is a type of energy from the Pokémon card which is used to represent both the normal and flying types from the actual Pokémon games. Energy cards in general are used as the \"cost\" of using the moves of a Pokémon.",
+    "image": "colourless_energy.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Colorless_(TCG)"
+  },
+  {
+    "id": 215,
+    "term": "Lapras",
+    "excerpt": "A Pokémon that resembles a plesiosaur.",
+    "description": "Lapras is an ice and water type Pokémon from the first generation of Pokémon games, and resembles a plesiosaur. Lapras is known for being a rideable Pokémon, and is often used to cross large bodies of water.",
+    "image": "lapras.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Lapras_(Pok%C3%A9mon)"
+  },
+  {
+    "id": 216,
+    "term": "Ciel",
+    "excerpt": "A character from the visual novel Tsukihime.",
+    "description": "Ciel is a character from the visual novel Tsukihime, one of Shiki Tohno (the main character)'s classmates, and a member of the Holy Church. Along with Arcueid, she is the only character to have a route in the Tsukihime remake, Tsukihime -A piece of blue glass moon-.",
+    "image": "ciel.png",
+    "link": "https://typemoon.fandom.com/wiki/Ciel"
+  },
+  {
+    "id": 217,
+    "term": "Go parlor",
+    "excerpt": "A public place were people can play the board game Go.",
+    "description": "A Go parlor is a place were people can play the board game Go, an East Asian board game players take turns placing stones on the intersections of a 13 by 13 grid with the goal of getting the most territory",
+    "image": "go_parlor.png",
+    "link": "https://voyapon.com/go-game-rooted-in-japanese-culture/"
+  },
+  {
+    "id": 218,
+    "term": "Hikaru no Go",
+    "excerpt": "A manga and anime series about the board game Go.",
+    "description": "Hikaru no Go is about the Hikaru Shindo who finds a Go board in his grandfather's attic. Upon touching it, he gets possessed by the spirit of a Go master, Fujiwara no Sai, someone who wants to play the \"Divine Move\".",
+    "image": "hikaru_no_go.png",
+    "link": "https://en.wikipedia.org/wiki/Hikaru_no_Go"
+  },
+  {
+    "id": 219,
+    "term": "Game Boy Advance",
+    "excerpt": "A portable game console made by Nintendo.",
+    "description": "The Game Boy Advance is a portable game console made by Nintendo, and released on March 21, 2001. It's known for its great library games, and especially its ports of SNES games. I got a used Game Boy Advance SP when I was a young teenager, so I have huge nostalgia for it despite not really being in the right era. Super Mario Advance 2 is probably my most 100%ed game.",
+    "image": "game_boy_advance.png",
+    "link": "https://en.wikipedia.org/wiki/Game_Boy_Advance"
+  },
+  {
+    "id": 220,
+    "term": "Pokémon Red",
+    "excerpt": "The first Pokémon game in North America along with Pokémon Blue.",
+    "description": "Pokémon Red is the first Pokémon game along with Pokémon Blue, both released in North America in 1998. The game follows Pokémon trainer Red in the reigon of Kanto, and has to collect the 8 Kanto gym badges, defeat the Elite Four, catching Pokémon and fighting Team Rocket along the way.",
+    "image": "pokemon_red.png",
+    "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red,_Blue,_and_Yellow"
+  },
+  {
+    "id": 221,
+    "term": "Apollo Justice: Ace Attorney",
+    "excerpt": "The fourth game in the Ace Attorney series.",
+    "description": "Apollo Justice: Ace Attorney is the fourth game in the Ace Attorney series, and released on April 12th, 2007. It is the first game to not follow the previous protagonist, Phoenix Wright, instead following Apollo Justice, and new lawyer who has the ability to read people's emotion through their body language using his \"perceive\" ability.",
+    "image": "apollo_justice_ace_attorney.png",
+    "link": "https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney"
   }
 ]
