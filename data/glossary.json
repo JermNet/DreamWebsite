@@ -1194,7 +1194,7 @@
   {
     "id": 229,
     "term": "Dragon Ball Z",
-    "excerpt": "An adaptation of the Dragon Ball Ball manga series, adapting most of the series.",
+    "excerpt": "An adaptation of the Dragon Ball manga series, adapting most of the series.",
     "description": "Dragon Ball Z is an adaptation of the later arcs of the Dragon Ball manga series, adapting after the Piccolo Jr. Saga to the end of the story. It is the more popular of anime adaptations, and has gained worldwide popular.",
     "image": "dragon_ball_z.png",
     "link": "https://en.wikipedia.org/wiki/Dragon_Ball_Z"
@@ -1206,5 +1206,29 @@
     "description": "Sam (not her real name) was an aquaintance of mine in elementary and middle school. She was a little bit of a bully in elementary school, but I also thhink she was bullied herself a bit due to her last name (which I will obviously not disclose). We didn't really interact much in middle school, but I think by then, she was all okay.",
     "image": "",
     "link": ""
+  },
+  {
+    "id": 231,
+    "term": "Luca",
+    "excerpt": "A friend of mine from high school.",
+    "description": "Luca (not their real name) came as fast as they went. We met near the middle of our last year of high school, and we met through one of my other friends. They were pretty chill, and did integrate into our friend group pretty quickly, but we then lost touch after high school. They were cool, though; hope they're doing well.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 232,
+    "term": "Carbink",
+    "excerpt": "A gem-like Rock and Fairy type Pokémon.",
+    "description": "Carbink is a gem-like Rock and Fairy type Pokémon that was introduced in the 6th generation of Pokémon. Although Carbink does not evolve into the Pokémon Diancie, it is still said to mutate into Diancie. How this differs from standard Pokémon evolution is a mystery, and likely has no explanation other than Diancie being a Mythical Pokémon, so there can only be one.",
+    "image": "carbink.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Carbink_(Pok%C3%A9mon)"
+  },
+  {
+    "id": 233,
+    "term": "Diancie",
+    "excerpt": "A gem-like Mythical Rock and Fairy type Pokémon.",
+    "description": "Diancie is a gem-like Mythical Rock and Fairy type Pokémon that was introduced in the 6th generation of Pokémon. Although Diancie is a Mythical Pokémon, and this has no evolution line, it is still said that the Pokémon Carbink mutates into it. How this differs from standard Pokémon evolution is a mystery, and likely has no explanation other than Diancie being a Mythical Pokémon, so there can only be one.",
+    "image": "diancie.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pok%C3%A9mon)"
   }
 ]
