@@ -1134,5 +1134,77 @@
     "description": "Apollo Justice: Ace Attorney is the fourth game in the Ace Attorney series, and released on April 12th, 2007. It is the first game to not follow the previous protagonist, Phoenix Wright, instead following Apollo Justice, and new lawyer who has the ability to read people's emotion through their body language using his \"perceive\" ability.",
     "image": "apollo_justice_ace_attorney.png",
     "link": "https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney"
+  },
+  {
+    "id": 222,
+    "term": "Sanji",
+    "excerpt": "The cook of the Straw Hat Pirates.",
+    "description": "Sanji is the cook of the Staw Hat Pirates in the One Piece anime and manga series. He's known for his strong ability to cook, and his fighting style which just involves his legs. He has a lot more to him as well, but that goes into spoilers.",
+    "image": "sanji.png",
+    "link": "https://en.wikipedia.org/wiki/Sanji_(One_Piece)"
+  },
+  {
+    "id": 223,
+    "term": "Nico Robin",
+    "excerpt": "The archaeologist of the Straw Hat Pirates.",
+    "description": "Nico Robin is the archaeologist of the Straw Hat Pirates, and former enemy of them when she was known as Ms. All Sunday. She also has the Devil Fruit ability of the Flower-Flower fruit, which allows her to sprout replicas of her limbs. She's known for being extremely beautiful, smart, and having a very rich backstory.",
+    "image": "nico_robin.png",
+    "link": "https://en.wikipedia.org/wiki/Nico_Robin"
+  },
+  {
+    "id": 224,
+    "term": "The Legend of Zelda Manga",
+    "excerpt": "A manga series based on the Legend of Zelda series of games.",
+    "description": "The Legend of Zelda manga is a series of manga covering many of the Legend of Zelda series of games, and done by Akria Himekawa. It started with Ocarina of Time all the way back in 1998 as a set of two volumes, but didn't get an English release until 2008. The latest series is the Legend of Zelda: Twilight Princess, which ended in 2022 with the largest number of volumes at 11.",
+    "image": "the_legend_of_zelda_manga.png",
+    "link": "https://en.wikipedia.org/wiki/List_of_The_Legend_of_Zelda_manga"
+  },
+  {
+    "id": 225,
+    "term": "Moist Critical",
+    "excerpt": "A popular commentary YouTuber.",
+    "description": "Moist Critical, also known as penguinz0 or by his real name, Charles White is a popular commentary YouTuber known for his montone voice and deadpan style of comedy. He has gone on to do many other things such as as well voice work and music.",
+    "image": "moist_critical.png",
+    "link": "https://en.wikipedia.org/wiki/Cr1TiKaL"
+  },
+  {
+    "id": 226,
+    "term": "Adrian Andrews",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Adrian Andrews is a character from the Ace Attorney series, and is a character who puts on a bit of a cold front, but in actuality is a bit clumsy, but still very capable. There's a lot more to her, but I can't really say much else without going into spoilers.",
+    "image": "adrian_andrews.png",
+    "link": "https://aceattorney.fandom.com/wiki/Adrian_Andrews"
+  },
+  {
+    "id": 227,
+    "term": "Twitter",
+    "excerpt": "A social media platform now known as X.",
+    "description": "Twitter, now known as X, is a social media platform where people communiticate through tweets which are bits of text alongside maybe images with a character limit. I used to use it a lot, mostly just to talk with my friends, see memes, and look at art. But now it kind of sucks, and I think it's been about 2 years since I've stopped using it as of mid 2025.",
+    "image": "twitter.png",
+    "link": "https://en.wikipedia.org/wiki/Twitter"
+  },
+  {
+    "id": 228,
+    "term": "Dragon Ball (Anime)",
+    "excerpt": "An adaptation of the Dragon Ball manga series, adapting the first few story arcs.",
+    "description": "Dragon Ball is an adaptation of the Dragon Ball manga series, adapting all the way up to the Piccolo Jr. Saga, where the main character, Goku, has a change of design where he grows up.",
+    "image": "dragon_ball.png",
+    "link": "https://en.wikipedia.org/wiki/Dragon_Ball"
+  },
+  {
+    "id": 229,
+    "term": "Dragon Ball Z",
+    "excerpt": "An adaptation of the Dragon Ball Ball manga series, adapting most of the series.",
+    "description": "Dragon Ball Z is an adaptation of the later arcs of the Dragon Ball manga series, adapting after the Piccolo Jr. Saga to the end of the story. It is the more popular of anime adaptations, and has gained worldwide popular.",
+    "image": "dragon_ball_z.png",
+    "link": "https://en.wikipedia.org/wiki/Dragon_Ball_Z"
+  },
+  {
+    "id": 230,
+    "term": "Sam (Female)",
+    "excerpt": "A school aquaintance of mine.",
+    "description": "Sam (not her real name) was an aquaintance of mine in elementary and middle school. She was a little bit of a bully in elementary school, but I also thhink she was bullied herself a bit due to her last name (which I will obviously not disclose). We didn't really interact much in middle school, but I think by then, she was all okay.",
+    "image": "",
+    "link": ""
   }
 ]
