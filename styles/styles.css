@@ -362,6 +362,44 @@ section p {
   color: #eee;
 }
 
+.dream-tags .tag {
+  display: inline-block;
+  background: #ffeaa7;
+  color: #2d3436;
+  border-radius: 12px;
+  padding: 0.2rem 0.6rem;
+  margin: 0.2rem;
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
+#tag-filter {
+  margin: 1rem auto 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.tag-filter-btn {
+  background: #dfe6e9;
+  border: 2px dashed #6c5ce7;
+  border-radius: 20px;
+  padding: 0.4rem 0.8rem;
+  font-family: "Comic Sans MS", "Chalkboard SE", cursive;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tag-filter-btn:hover {
+  background: #ffeaa7;
+}
+
+.tag-filter-btn.active {
+  background: #6c5ce7;
+  color: #fff;
+  border-color: #a29bfe;
+}
 
 
 @keyframes gradientShift {

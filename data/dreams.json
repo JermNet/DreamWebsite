@@ -5,6 +5,7 @@
     "excerpt": "I was flying over a glowing cityscape, feeling completely free.",
     "content": "I soared through neon-lit towers. [[Below|3DS XL]], tiny people watched in awe. I felt both alone and in control.",
     "rating": 5,
+    "tags": ["flying", "space"],
     "images": ["moon.png", "1.png", "moon.png"]
   },
   {
@@ -13,6 +14,7 @@
     "excerpt": "The train <br> kept going with no stops, and strange passengers joined in.",
     "content": "Each car I walked into had its own logic. Some were dreamlike, others felt like memories.",
     "rating": 4,
+    "tags": ["train"],
     "images": ["moon.png", "moon.png"]
   },
   {
@@ -21,6 +23,7 @@
     "excerpt": "I was running through a foggy forest, chasing shadows that danced around me.",
     "content": "The shadows whispered secrets as I chased them deeper into the woods, feeling both fear and curiosity.",
     "rating": 4,
+    "tags": ["nightmare"],
     "images": ["moon.png"]
   },
   {
