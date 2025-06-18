@@ -99,7 +99,7 @@
     "id": 12,
     "term": "Clannad",
     "excerpt": "A visual novel and anime series that focuses on family and relationships.",
-    "description": "Clannad is mainly a visual novel and anime series that focuses on family and relationships. The visual novel was originally released in 2004, and the anime adaptation was released in 2007. There are many different characters, most with their own story arcs, but the main character is Tomoya Okazaki, and the main heroine is Nagisa Furukawa. It's know for how emotional it can be, it's theme of family and relationships, and how it delves into serious topics.",
+    "description": "Clannad is mainly a visual novel and anime series that focuses on family and relationships. The visual novel was originally released in 2004, and the anime adaptation was released in 2007. There are many different characters, most with their own story arcs, but the main character is Tomoya Okazaki, and the main heroine is Nagisa Furukawa. It's known for how emotional it can be, it's theme of family and relationships, and how it delves into serious topics.",
     "image": "clannad.png",
     "link": "https://en.wikipedia.org/wiki/Clannad_(visual_novel)"
   },
@@ -1230,5 +1230,141 @@
     "description": "Diancie is a gem-like Mythical Rock and Fairy type Pokémon that was introduced in the 6th generation of Pokémon. Although Diancie is a Mythical Pokémon, and this has no evolution line, it is still said that the Pokémon Carbink mutates into it. How this differs from standard Pokémon evolution is a mystery, and likely has no explanation other than Diancie being a Mythical Pokémon, so there can only be one.",
     "image": "diancie.png",
     "link": "https://bulbapedia.bulbagarden.net/wiki/Diancie_(Pok%C3%A9mon)"
+  },
+  {
+    "id": 234,
+    "term": "80 For Brady",
+    "excerpt": "A movie about four friends who watch the football player Tom Brady play.",
+    "description": "80 For Brady is a movie about four friends who watch the football player Tom Brady play in Super Bowl 51. It's a comedy film, and the four friends are elderly, so the comedy comes from their antics in trying to watch the New England Patriots play.",
+    "image": "80_for_brady.png",
+    "link": "https://en.wikipedia.org/wiki/80_for_Brady"
+  },
+  {
+    "id": 235,
+    "term": "Arceus",
+    "excerpt": "Arceus is a Mythical Pokémon meant to represent the God of Pokémon.",
+    "description": "Arceus is a Mythical Pokémon meant to represent the God of Pokémon, and was introduced in the 4th generation of Pokémon. It is said to have created the Sinnoh reigon, and potentially the entire Pokémon world. It is a normal type, but with the ability to turn into any Pokémon type using special plates.",
+    "image": "arceus.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Arceus_(Pok%C3%A9mon)"
+  },
+  {
+    "id": 236,
+    "term": "Gohan",
+    "excerpt": "The son of Goku from the Dragon Ball series.",
+    "description": "Gohan is the son of Goku, the main character of the Dragon Ball series. He started out as a shy character, especially compared to his father, but as he grew up and faced many different battles, he came into his own as one of the protectors of Earth.",
+    "image": "gohan.png",
+    "link": "https://en.wikipedia.org/wiki/Gohan"
+  },
+  {
+    "id": 237,
+    "term": "Piccolo",
+    "exerpt": "A villain turned friend from the Dragon Ball series.",
+    "description": "Piccolo is a villain turned friend from the Dragon Ball series. He was originally born to fight Goku, the main character, and did, but lost. After that, he still intended on ruling the world, but a foe too big for Goku to fight alone came to Earth, so Piccolo fought along side him, slowly becoming one of the good guys.",
+    "image": "piccolo.png",
+    "link": "https://en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"
+  },
+  {
+    "id": 238,
+    "term": "Kanon",
+    "excerpt": "A visual novel and anime series that focuses on relationships and memories.",
+    "description": "Kanon is mainly a visual novel and anime series that focuses on relationships and memories. The visual novel was originally released in 1999, and had two anime adaptations, one released in 2002, and the other in 2006. There are many different characters, most with their own story arcs, but the main character is Yuichi Aizawa, and the main \"poster girl\" is Ayu Tsukimiya. It's known for how emotional it can be, and for being the first visual novel released by the company Key.",
+    "image": "kanon.png",
+    "link": "https://en.wikipedia.org/wiki/Kanon_%28video_game%29"
+  },
+  {
+    "id": 239,
+    "term": "The Blues Brothers (movie)",
+    "excerpt": "A movie about two brothers trying to \"get the band back together\".",
+    "description": "The Blues Brothers is a Saturday Night Live spin off movie about two brothers, \"Joliet\" Jake Blues, played by John Belushi, and Elwood Blues, played by Dan Aykroyd. The orphanage where they grew up needs 5000 dollars, and they need to get it without criminal means, so they try to get the band back together, resulting in comedic situations. If this isn't my favourite movie of all time, it's for sure in the top 5. Watch it if you haven't already.",
+    "image": "the_blues_brothers.png",
+    "link": "https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)"
+  },
+  {
+    "id": 240,
+    "term": "Mr. High School Programming",
+    "excerpt": "My high school programming teacher.",
+    "description": "Mr. High School Programming taught me not one, but two programming courses in high school. As is probably expected, he was a bit of a nerdy fella, but we all were, too. Naturally, they were some of my favourite classes, and he helped that. A fun memory I have is him teaching us the concept of if statements though a multiple choice Annoying Orange video.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 241,
+    "term": "Mr. Beast",
+    "excerpt": "A very popular YouTuber.",
+    "description": "Mr. Beast is a very popular YouTuber who often does challenge videos which involve large amounts of money. He has other ventures as well, including Mr. Beast Burger, Feastables, and an Amazon series. Recently, there have been various controversies involving Mr. Beast. Luckily, I never watched him even before that, but I do feel a little bit for the people who liked his content before hand.",
+    "image": "mr_beast.png",
+    "link": "https://en.wikipedia.org/wiki/MrBeast"
+  },
+  {
+    "id": 242,
+    "term": "Chi-Chi",
+    "excerpt": "The wife of Goku from the Dragon Ball series.",
+    "description": "Chi-Chi is the wife of the main character of the Dragon Ball series, Goku. They met when they were both just kids, and although Goku had to leave, he promised to marry her without knowing what that meant. As an adult, Chi-Chi highly values the traditional family structure, and often laments Goku's use of martial arts.",
+    "image": "chi_chi.png",
+    "link": "https://en.wikipedia.org/wiki/Chi-Chi_(Dragon_Ball)"
+  },
+  {
+    "id": 243,
+    "term": "Bulma",
+    "excerpt": "One of the first characters from the Dragon Ball series.",
+    "description": "Bulma is one of the first characters from the Dragon Ball series, being the second ever character to appear. She often uses her feminine attributes to get her way, and isn't really shy about doing so. She is also very inteligent, and is even the inventor of the time machine in the Dragon Ball world. She also ends up marrying another important character, Vegeta.",
+    "image": "bulma.png",
+    "link": "https://en.wikipedia.org/wiki/Bulma"
+  },
+  {
+    "id": 244,
+    "term": "Potara",
+    "excerpt": "A method of fusing two characters together.",
+    "description": "Potara are a set of earrings in the Dragon Ball series which fuse two characters together if one person wears one earring, and the other person the other. It fuses normal people together for a set amount of time, but it fuses more mythical characters together forever.",
+    "image": "potara.png",
+    "link": "https://dragonball.fandom.com/wiki/Potara"
+  },
+  {
+    "id": 245,
+    "term": "Fusion Dance",
+    "excerpt": "A method of fusing two characters together.",
+    "description": "The Fusion Dance is a dance from the Dragon Ball series, which when preformed correctly, results in the two participants fusing together. It has a time limit, though, with the characters only able to stay fused for a limited amount of time, and having a cool down period when the characters become unfused.",
+    "image": "fusion_dance.png",
+    "link": "https://dragonball.fandom.com/wiki/Fusion_Dance"
+  },
+  {
+    "id": 246,
+    "term": "KonoSuba",
+    "excerpt": "An anime, light novel, and manga series about a group of adventurers.",
+    "description": "KonoSuba is an anime, light novel, and manga series about a group of adventures led by Kazuma Sato. He died and was reincarnated into a world much like that of an old school RPG. He, along with the bumbling goddess Aqua, the explosion crazy Megumin, and the masochistic Darkness try to defeat the demon king through many misadventures.",
+    "image": "konosuba.png",
+    "link": "https://en.wikipedia.org/wiki/KonoSuba"
+  },
+  {
+    "id": 247,
+    "term": "Arcueid Brunestud (Tsukihime)",
+    "excerpt": "The main heroine of the Tsukihime series.",
+    "description": "Arcueid Brunestud is the main heroine of the Tsukihime series. She is the princess of the True Ancestors, a special type of vampire that are incarnated Nature Spirits. She was made with the purpose of defeating fallen True Ancestors, and Dead Apostles (another type of vampire). She then had to kill a vampire who kept on reincarnating over and over, and during his most recent incarnation, came to know about the nature of why humans do what they do through the main character, Shiki Tohno.",
+    "image": "arcueid_brunestud.png",
+    "link": "https://typemoon.fandom.com/wiki/Arcueid_Brunestud"
+  },
+  {
+    "id": 248,
+    "term": "SpongeBob SquarePants",
+    "excerpt": "An American animated kids show.",
+    "description": "You probably know what SpongeBob is, but if you don't, it's an animated kids series that takes place underwater, and follows talking sea creatures and the wacky situations they get into. I grew up with this show, so I have a lot of nostalgia for it. A specific memory that comes to mind is renting the first movie from the library, and being terrified of that big guy with the spiked boots.",
+    "image": "spongebob_squarepants.png",
+    "link": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants"
+  },
+  {
+    "id": 249,
+    "term": "Jerry Seinfeld (Character)",
+    "excerpt": "The main character of the Sitcom Seinfeld.",
+    "description": "Jerry Seinfeld is the main character of the 90s sitcom Seinfeld. Much like the real Jerry Seinfeld, he's a comedian with some strange friends. He has trouble with women, almost always being his fault, and is also a bit of a clean freak.",
+    "image": "jerry_seinfeld.png",
+    "link": "https://en.wikipedia.org/wiki/Jerry_Seinfeld_(character)"
+  },
+  {
+    "id": 250,
+    "term": "Ranma ½",
+    "excerpt": "An anime and manga series following a martial artist who can turn into a woman.",
+    "description": "An anime and manga series following martial artist Ranma Saotome who, when in China, fell into the spring of the drowned girl, causing him to turn into a woman at the touch of cold water. Upon returning to Japan, he moves in with a family friend, Soun Tendo, and is said to marry one of his daughters, Akane Tendo. They both hate this, and reluctantly spend time together while making various enemies and friends.",
+    "image": "ranma_12.png",
+    "link": "https://en.wikipedia.org/wiki/Ranma_%C2%BD"
   }
 ]
