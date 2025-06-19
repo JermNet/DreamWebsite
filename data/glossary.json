@@ -1366,5 +1366,85 @@
     "description": "An anime and manga series following martial artist Ranma Saotome who, when in China, fell into the spring of the drowned girl, causing him to turn into a woman at the touch of cold water. Upon returning to Japan, he moves in with a family friend, Soun Tendo, and is said to marry one of his daughters, Akane Tendo. They both hate this, and reluctantly spend time together while making various enemies and friends.",
     "image": "ranma_12.png",
     "link": "https://en.wikipedia.org/wiki/Ranma_%C2%BD"
+  },
+  {
+    "id": 251,
+    "term": "Soun Tendo",
+    "excerpt": "A character from the Ranma ½ series.",
+    "description": "Soun Tendo is a character from the Ranma ½ series, owner of the Tendo dojo, and practitioner of the Anything Goes style of martial arts. He trained alongside his friend Gendo Saotome under their master, so both learned the same style of martial arts, each deciding on their own what to do with it.",
+    "image": "soun_tendo",
+    "link": "https://ranma.fandom.com/wiki/Soun_Tendo"
+  },
+  {
+    "id": 252,
+    "term": "Kasumi Tendo",
+    "excerpt": "A character from the Ranma ½ series.",
+    "description": "Kasumi Tendo is a character from the Ranma ½ series, and the eldest daughter of Soun Tendo. As a result of being the oldest, the Tendo family not having a mother, she often takes that role, having a fairly motherly aura. Aside from that, though, she barely makes any impact in the series.",
+    "image": "kasumi_tendo",
+    "link": "https://ranma.fandom.com/wiki/Kasumi_Tendo"
+  },
+  {
+    "id": 253,
+    "term": "Hey Arnold!",
+    "excerpt": "An animated sitcom following 4th grader Arnold Shortman.",
+    "description": "Hey Arnold! is an animated sitcom following the 4th grader Arnold Shortman as he and his friends get into wacky hijinks and whatnot. I never really watched the series at all, and my only exposure to it is the movie.",
+    "image": "hey_arnold.png",
+    "link": "https://en.wikipedia.org/wiki/Hey_Arnold!"
+  },
+  {
+    "id": 254,
+    "term": "Mjöllnir",
+    "excerpt": "The hammer of the Norse thunder god Thor.",
+    "description": "Mjöllnir is the hammer of the Norse thunder god Thor, and is known most through the version of Thor in the Marvel Cinematic Universe. Just like the popular depitction, Thor can only wield it. Uniike the MCU version, Mjöllnir is not always depicted as a sledgehammer.",
+    "image": "mjollnir.png",
+    "link": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir"
+  },
+  {
+    "id": 255,
+    "term": "Charles Martinet",
+    "excerpt": "A voice actor known for playing the video game character Mario.",
+    "description": "Charles Martinet is a voice actor known playing the video game character Mario, as well as the other letter-hat characters, Luigi, Wario, and Waluigi. Although he no longer plays the characters, his voice work is still in over 100 Mario games, and he is still allowed to preform Mario's voice.",
+    "image": "charles_martinet.png",
+    "link": "https://en.wikipedia.org/wiki/Charles_Martinet"
+  },
+  {
+    "id": 256,
+    "term": "Zapdos",
+    "excerpt": "An electric bird Legendary Pokémon.",
+    "description": "Zapdos is an electric bird Legendary Pokémon from the first generation of Pokémon, Pokémon Red and Blue. It is part of a trio of birds with Articuno and Moltres, and is one of only four legendary Pokémon from the first generation.",
+    "image": "zapdos.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Zapdos_(Pok%C3%A9mon)"
+  },
+  {
+    "id": 257,
+    "term": "Back to the Future",
+    "excerpt": "A movie series about time travel.",
+    "description": "Back to the Future is a movie series about time travel, following Marty McFly, played by Michael J. Fox, and Doc Brown, played by Christopher Lloyd. Marty is your fairly average 80s kid, and Doc Brown is a scientist who invents time travel, making his machine into a DeLorean. As you can probably guess, things go wrong over the three films, and Marty and Doc have to figure things out.",
+    "image": "back_to_the_future.png",
+    "link": "https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)"
+  },
+  {
+    "id": 258,
+    "term": "Hill Valley",
+    "excerpt": "The setting of the Back to the Future films.",
+    "description": "Hill Valley is a fictional town in California, and the setting of the Back to the Future films through various time periods. It's used as an anchor point of sorts, being a fairly simple location with the courthouse being a big, obvious location so that the viewer can see how things have changed through different periods of time.",
+    "image": "hill_valley.png",
+    "link": "https://en.wikipedia.org/wiki/Hill_Valley_(Back_to_the_Future)"
+  },
+  {
+    "id": 259,
+    "term": "Doc Brown",
+    "excerpt": "One of the main characters from the Back to the Future series.",
+    "description": "Doc Brown, also known as Emmett Brown, is a mad scientist type character, and personal friend to the main character of the Back to the Future series, Marty McFly. He sets the plots of the films in motion by being the inventor of the time machine, which he did using a DMC DeLorean.",
+    "image": "doc_brown.png",
+    "link": "https://en.wikipedia.org/wiki/Emmett_Brown"
+  },
+  {
+    "id": 260,
+    "term": "Marty McFly",
+    "excerpt": "The main character of the Back to the Future series.",
+    "description": "Marty McFly is the main character of the Back to the Future series, and is your average 80s kid for the most part. I assume most 80s kids didn't have a mad scientist as their friend, but I could be wrong. Either way, although Doc Brown invented the time machine, Marty is typically the one getting in trouble with it, and is the one to try to solve the problem when it's not science related.",
+    "image": "marty_mcfly.png",
+    "link": "https://en.wikipedia.org/wiki/Marty_McFly"
   }
 ]
