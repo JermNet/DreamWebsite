@@ -1,37 +1,20 @@
 [
   {
-    "id": 0,
-    "title": "Flying Over the City",
-    "excerpt": "I was flying over a glowing cityscape, feeling completely free.",
-    "content": "I soared through neon-lit towers. [[Below|3DS XL]], tiny people watched in awe. I felt both alone and in control.",
-    "rating": 5,
-    "tags": ["flying", "space"],
-    "images": ["moon.png", "1.png", "moon.png"]
-  },
-  {
-    "id": 1,
-    "title": "Endless Train Ride",
-    "excerpt": "The train <br> kept going with no stops, and strange passengers joined in.",
-    "content": "Each car I walked into had its own logic. Some were dreamlike, others felt like memories.",
-    "rating": 4,
-    "tags": ["train"],
-    "images": ["moon.png", "moon.png"]
-  },
-  {
-    "id": 2,
-    "title": "Chasing Shadows",
-    "excerpt": "I was running through a foggy forest, chasing shadows that danced around me.",
-    "content": "The shadows whispered secrets as I chased them deeper into the woods, feeling both fear and curiosity.",
-    "rating": 4,
-    "tags": ["nightmare"],
-    "images": ["moon.png"]
-  },
-  {
-    "id": 3,
+    "id": 100,
     "title": "Lost in a Library",
     "excerpt": "I wandered through an endless library filled with books that whispered their stories.",
     "content": "Each book I opened transported me to a different world, but I could never find my way out.  [[Endless Train Ride]]",
     "rating": 5,
     "images": []
+  },
+  {
+    "id": 0,
+    "excerpt": "A dream about me playing Ace Attorney with some unexpected aspects.",
+    "tags": ["games", "my home"],
+    "title": "The Playing Ace Attorney Dream",
+    "rating": 5,
+    "content": "In this dream, I was playing [[Ace Attorney|Ace Attorney (Series)]] on my [[3DS XL]] on the blue recliner in the living room (shown in the image). The clear table wasn't there, and my dad was standing in place of where it once was while having a conversation with my brother who was beside him (also shown in the image). The only other thing I remember at that point in the dream was [[Phoenix Wright]] had a new sprite that was his hand slamming down on the desk sprite, except only his front hand was slammed down. That part of the dream also took place during the [[post trial wrap-up|Post Trial Wrap-Up]], and in a [[capture card]] like perspective as opposed to my POV like in the first part. <br><br> Unlike the end of most Ace Attorney cases, this one ended on a very sombre note, and the only way to make it a little bit less sad was to trade someone an [[Ekans]] for a [[Bellsprout]] (or the other way around, I can’t remember). The final piece of information that I remember is the music during the post trial wrap-up. The music was an instrumental version of the [[Dango theme]], specifically the version from [[Clannad the Motion Picture]], that was remixed to make it sound sad. It also sounded like the start of either the [[SL-9 Incident recollection theme]] or the [[Steel Samurai's Ballad recollection theme]] from Ace Attorney were mixed in there as well.",
+    "images": ["living_room_old.png"],
+    "thoughts": "To be honest, this is the like the definition of a generic weird dream. It's not interesting or funny, it just has things in it that are unexplained or strange. It's not good, but it's not bad, and unless a dream is a nightmare, or doesn't really have anything to it, I don't think there will be anything below a 5. That's to say, this dream gets the lowest rating it can get without me actively not liking it. Not bad, not good, just boring relatively speaking to dreams as a whole."
   }
 ]

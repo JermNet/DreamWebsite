@@ -1,9 +1,9 @@
 [
   {
     "id": 0,
-    "term": "Ace Attorney Series",
-    "excerpt": "A video game series about a defense attorney solving cases.", 
-    "description": "The Ace Attorney series is about the main character (for the most part), Phoenix Wright, a defense attorney who solves cases in court. It released in 2001, and has gained a lot of popularity over the years. It's known for its stories, often strange characters, and unique aproach to puzzle solving.",
+    "term": "Ace Attorney (Series)",
+    "excerpt": "A video game series about a defence attorney solving cases.", 
+    "description": "The Ace Attorney series is about the main character (for the most part), Phoenix Wright, a defence attorney who solves cases in court. It released in 2001, and has gained a lot of popularity over the years. It's known for its stories, often strange characters, and unique approach to puzzle solving.",
     "image": "ace_attorney_logo.png",
     "link": "https://en.wikipedia.org/wiki/Ace_Attorney"
   },
@@ -11,7 +11,7 @@
     "id": 1,
     "term": "3DS XL",
     "excerpt": "A handheld gaming console by Nintendo.",
-    "description": "The Nintendo 3DS XL is the version of the Nintendo 3DS that has a larger screen than the original. It was released in 2012, and had the main gimick of being able to play games in 3D without glasses. Some games you might know that were released on the 3DS XL (and normal 3DS) include: Animal Crossing: New Leaf, The Legend of Zelda: Ocarina of Time 3D, and Super Mario 3D Land.",
+    "description": "The Nintendo 3DS XL is the version of the Nintendo 3DS that has a larger screen than the original. It was released in 2012, and had the main gimmick of being able to play games in 3D without glasses. Some games you might know that were released on the 3DS XL (and normal 3DS) include: Animal Crossing: New Leaf, The Legend of Zelda: Ocarina of Time 3D, and Super Mario 3D Land.",
     "image": "3ds_xl.png",
     "link": "https://en.wikipedia.org/wiki/Nintendo_3DS"
   },
@@ -19,7 +19,7 @@
     "id": 2,
     "term": "Phoenix Wright",
     "excerpt": "The main character of the Ace Attorney series.",
-    "description": "Phoenix Wright is the main character of all but one of the main Ace Attorney games. He is a defense attorney who solves cases in court, and is known for his often used pose of pointing at the prosecutor and shouting \"Objection!\" He has grown to become a popular Capcom character, and has appeared in many spin-off games and media.",
+    "description": "Phoenix Wright is the main character of all but one of the main Ace Attorney games. He is a defence attorney who solves cases in court, and is known for his often used pose of pointing at the prosecutor and shouting \"Objection!\" He has grown to become a popular Capcom character, and has appeared in many spin-off games and media.",
     "image": "aa_desk_slam.gif",
     "link": "https://en.wikipedia.org/wiki/Phoenix_Wright"
   },
@@ -35,7 +35,7 @@
     "id": 4,
     "term": "Capture Card",
     "excerpt": "A device that allows you to record or stream video from an external source.",
-    "description": "A capture card is a device that allows you to caputre video from an external source, which is typically anything that outputs video through HDMI. The most common use is to capture video from a game console for footage or streaming.",
+    "description": "A capture card is a device that allows you to capture video from an external source, which is typically anything that outputs video through HDMI. The most common use is to capture video from a game console for footage or streaming.",
     "image": "capture_card.png",
     "link": "https://en.wikipedia.org/wiki/Capture_card"
   },
@@ -43,7 +43,7 @@
     "id": 5,
     "term": "Ekans",
     "excerpt": "A snake-like Pokémon.",
-    "description": "Ekans is a snake-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Poison-type Pokémon, and it's name is snake spelled backwards.",
+    "description": "Ekans is a snake-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Poison-type Pokémon, and its name is snake spelled backwards.",
     "image": "ekans.png",
     "link": "https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pokémon)"
   },
@@ -51,7 +51,7 @@
     "id": 6,
     "term": "Bellsprout",
     "excerpt": "A plant-like Pokémon that resembles a sprout.",
-    "description": "Bellsprout is a plant-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Grasss and Poison-type Pokémon, and it's name is a combination of bell and sprout, which describes its appearance.",
+    "description": "Bellsprout is a plant-like Pokémon that first appeared in Pokémon Red and Blue, the first Pokémon games. It is a Grass and Poison-type Pokémon, and its name is a combination of bell and sprout, which describes its appearance.",
     "image": "bellsprout.png",
     "link": "https://bulbapedia.bulbagarden.net/wiki/Bellsprout_(Pokémon)"
   },
@@ -59,7 +59,7 @@
     "id": 7,
     "term": "Dango Theme",
     "excerpt": "A piece of music from the Clannad series.",
-    "description": "The Dango Theme, also known as Dango Daikazoku, is a piece of music from the Clannad series, often associated with the characters Nagisa and Ushio. It is meant to be a bit of a childish song, and Nagisa even gets made fun of for that in the series, but it has themes of family and togetherness which are important to the series and characters.",
+    "description": "The Dango theme, also known as Dango Daikazoku, is a piece of music from the Clannad series, often associated with the characters Nagisa and Ushio. It is meant to be a bit of a childish song, and Nagisa even gets made fun of for that in the series, but it has themes of family and togetherness which are important to the series and characters.",
     "image": "dango.png",
     "link": "https://youtu.be/0LbuYgL2DgA?si=Rycrbdb_Vnb6J2z1"
   },
@@ -73,9 +73,9 @@
   },
   {
     "id": 9,
-    "term": "The SL-9 Incident Recollection Theme",
+    "term": "SL-9 Incident Recollection Theme",
     "excerpt": "A piece of music from the first Ace Attorney game that is played during a recollection of events.",
-    "description": "The SL-9 Incident is a past case from Ace Attorney, which is important to the case Rise From the Ashes in the first Ace Attorney game. I will not go into it in detail, as it is a major spoiler for that case, but the music is played over a recollection of the events, and is meant to be somber, emphasizing the tragedy of the case.",
+    "description": "The SL-9 Incident is a past case from Ace Attorney, which is important to the case Rise From the Ashes in the first Ace Attorney game. I will not go into it in detail, as it is a major spoiler for that case, but the music is played over a recollection of the events, and is meant to be sombre, emphasizing the tragedy of the case.",
     "image": "",
     "link": "https://youtu.be/JMg6N9PuOi8?si=DCqx66SjMbWhYeu3"
   },
@@ -1526,5 +1526,13 @@
     "description": "The Legend of Zelda: Twilight Princess is an action-adventure game made by Nintendo, and released for both the Nintendo GameCube, and Nintendo Wii in 2006. It was made in response to the fan reaction of The Legend of Zelda: The Wind Waker, which at the time did not do well due to its cartoony art style. Twilight Princess swings in the opposite direction, being one of the darker games in the series.",
     "image": "the_legend_of_zelda_twilight_princess.png",
     "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess"
+  },
+  {
+    "id": 271,
+    "term": "Nubby's Number Factory",
+    "excerpt": "An indie roguelike not dissimilar to plinko.",
+    "description": "Nubby's Number Factory is an indie roguelike not dissimilar to plinko, where the player is tasked with launching Nubby the living ball at pegs to gain score. Along with different items that can help multiple score, add score, and have other effects, the player is meant to aim for a high score.",
+    "image": "nubbys_number_factory.png",
+    "link": "https://en.wikipedia.org/wiki/Nubby%27s_Number_Factory"
   }
 ]

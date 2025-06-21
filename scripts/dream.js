@@ -39,16 +39,24 @@ async function loadDream() {
     container.innerHTML = `
         <h1>${dream.title}</h1>
         <p><strong>Rating:</strong> ${dream.rating}/10</p>
-        <p>${linkedContent}</p>
+        <p id="dream-body">${linkedContent}</p>
         <div class="carousel" id="carousel"></div>
     `;
+    if (dream.thoughts) {
+        container.innerHTML += `
+        <section class="dream-thoughts">
+        <h2>My Thoughts</h2>
+        <p>${dream.thoughts}</p>
+        </section>
+        `;
+    }
     
     if (Array.isArray(dream.images) && dream.images.length > 0) {
         const carousel = document.getElementById("carousel");
         carousel.innerHTML = `
         <div class="carousel-container">
             ${dream.images.map((img, i) => `
-            <img src="${img}" class="carousel-img ${i === 0 ? 'active' : ''}" alt="Dream Image ${i + 1}">
+            <img src="assets/dream-images/${img}" class="carousel-img ${i === 0 ? 'active' : ''}" alt="Dream Image ${i + 1}">
             `).join('')}
             <button class="carousel-btn prev">❮</button>
             <button class="carousel-btn next">❯</button>
