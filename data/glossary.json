@@ -1534,5 +1534,21 @@
     "description": "Nubby's Number Factory is an indie roguelike not dissimilar to plinko, where the player is tasked with launching Nubby the living ball at pegs to gain score. Along with different items that can help multiple score, add score, and have other effects, the player is meant to aim for a high score.",
     "image": "nubbys_number_factory.png",
     "link": "https://en.wikipedia.org/wiki/Nubby%27s_Number_Factory"
+  },
+  {
+    "id": 272,
+    "term": "Dragon Ball Z: Dokkan Battle",
+    "excerpt": "A gacha mobile game based on the Dragon Ball series.",
+    "description": "Dragon Ball Z: Dokkan Battle is a gacha mobile game based on the Dragon Ball series, and includes elements of board games, collectible card games, and puzzle games. The main gameplay is level based and similar to board games, which is a running theme in Dragon Ball games as a whole.",
+    "image": "dragon_ball_z_dokkan_battle.png",
+    "link": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Dokkan_Battle"
+  },
+  {
+    "id": 273,
+    "term": "Vegito Blue",
+    "excerpt": "A fusion of Goku and Vegeta from the Dragon Ball series.",
+    "description": "Vegito Blue is a fusion of Goku and Vegeta when they use the Potara earrings, and in the Super Sayian Blue transformation. The fusion was introduced near the end of the Dragon Ball manga and Dragon Ball Z anime, but the ability to turn Super Sayian Blue was introduced in Dragon Ball Super, as both Goku and Vegeta could use the transformation indivdually.",
+    "image": "vegito_blue.png",
+    "link": "https://dragonball.fandom.com/wiki/Vegito"
   }
 ]
