@@ -14,7 +14,6 @@ function renderDreams(dreams) {
     const entry = document.createElement("div");
     entry.innerHTML = `
       <h3><a href="dream.html?id=${dream.id}">${dream.title}</a></h3>
-      <small>${dream.date}</small>
       <p>${dream.excerpt}</p>
       <p><strong>Rating:</strong> ${dream.rating}/10</p>
       ${dream.tags ? `<p class="dream-tags">${dream.tags.map(tag => `<span class="tag">${tag}</span>`).join(' ')}</p>` : ''}
@@ -67,7 +66,7 @@ fetch("data/dreams.json")
   .then(res => res.json())
   .then(dreams => {
     allDreams = dreams;
-    
+
     const tagSet = new Set();
     dreams.forEach(d => {
       if (Array.isArray(d.tags)) {

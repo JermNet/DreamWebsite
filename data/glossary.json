@@ -1446,5 +1446,85 @@
     "description": "Marty McFly is the main character of the Back to the Future series, and is your average 80s kid for the most part. I assume most 80s kids didn't have a mad scientist as their friend, but I could be wrong. Either way, although Doc Brown invented the time machine, Marty is typically the one getting in trouble with it, and is the one to try to solve the problem when it's not science related.",
     "image": "marty_mcfly.png",
     "link": "https://en.wikipedia.org/wiki/Marty_McFly"
+  },
+  {
+    "id": 261,
+    "term": "Jennifer Parker",
+    "excerpt": "A character from the Back to the Future series.",
+    "description": "Jennifer Parker is a character from the Back to the Future series, and the love interest of the main character, Marty McFly. Other than that, though, she doesn't really play too much of a role, and she was purposely knocked out when it came to the sequel since they didn't know what to do with her.",
+    "image": "jennifer_parker.png",
+    "link": "https://backtothefuture.fandom.com/wiki/Jennifer_Parker"
+  },
+  {
+    "id": 262,
+    "term": "Trigun",
+    "excerpt": "An anime and manga series about a famous gunman with a large bounty.",
+    "description": "Trigun is an anime and manga series about a famous gunman by the name of Vash the Stampede, who despite not doing anything on purpose, gained a bounty of 60,000,000,000 double dollars. It takes place in a post apocalyptic world, and follows Vash as various people chase him down for his bounty.",
+    "image": "trigun.png",
+    "link": "https://en.wikipedia.org/wiki/Trigun"
+  },
+  {
+    "id": 263,
+    "term": "Vash the Stampede",
+    "excerpt": "The main character of the Trigun series.",
+    "description": "Vash the Stampede is the main character of the Trigun series. He's an expert gunman with a bounty of 60,000,000,000 double dollars. In reality, he still is an expert gunman, but uses his skills to win gun fights without hurting anyone, as he is an extreme pacifist.",
+    "image": "vash_the_stampede.png",
+    "link": "https://trigun.fandom.com/wiki/Vash_the_Stampede"
+  },
+  {
+    "id": 264,
+    "term": "Franziska von Karma",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Franziska von Karma is a whip toting prosecutor from the Ace Attorney series. She is a rival to the main character, Phoenix Wright, and holds great hatred for him due to spoiler reasons. She is extremely intelligent, and became a prosecutor at the extremely young age of 13.",
+    "image": "franziska_von_karma.png",
+    "link": "https://en.wikipedia.org/wiki/Franziska_von_Karma"
+  },
+  {
+    "id": 265,
+    "term": "Tohru Honda",
+    "excerpt": "The main character of the Fruits Basket anime and manga series.",
+    "description": "Tohru Honda is the main character of the Fruits Basket anime and manga series. She's kind of a shy and soft spoken person, but extremely kind, especially to the Sohma family who she gets deeply involved with.",
+    "image": "tohru_honda.png",
+    "link": "https://en.wikipedia.org/wiki/Tohru_Honda"
+  },
+  {
+    "id": 266,
+    "term": "Baldi",
+    "excerpt": "The main antagonist of the Baldi's Basics series.",
+    "description": "Baldi is the main antagonist of the Baldi's Basics series, a series of horror games that are parodies of childrens educational games from the 90s. He chases after the player whenever they make three mistakes in their math problems, using the slapping of a ruler to threaten them.",
+    "image": "baldi.png",
+    "link": "https://baldis-basics-in-education-and-learning.fandom.com/wiki/Baldi"
+  },
+  {
+    "id": 267,
+    "term": "Shiki Tohno (Tsukihime)",
+    "excerpt": "The main character of the Tsukihime series.",
+    "description": "Shiki Tohno is the main character of the Tsukihime series. He got into an accident when he was a child, which ended up granting him the Mystic Eyes of Death Perception. This causes him to see black lines on everything, and when he traces these lines, the thing with the lines on it gets cut no matter what. This causes him much turmoil, but he eventually got glasses which prevented these line from showing up. He grew up to be a fairly normal child, but when encountering the vampire Arcueid, things turn south.",
+    "image": "shiki_tohno.png",
+    "link": "https://typemoon.fandom.com/wiki/Shiki_Tohno"
+  },
+  {
+    "id": 268,
+    "term": "Gordon",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Gordon is a character from the Thomas & Friends franchise, and is a big, blue, A1 Pacific, and at the time the character was created, the A1 Pacific was the top of the line in terms of steam engines. He pulls the express, and is a very cocky and prideful character.",
+    "image": "gordon.png",
+    "link": "https://ttte.fandom.com/wiki/Gordon_(T%26F)"
+  },
+  {
+    "id": 269,
+    "term": "Train of Thought",
+    "excerpt": "A YouTuber who makes train documentary videos.",
+    "description": "Train of Thought is a British YouTuber who makes documentary style videos about obscure trains and train topics. He will often dive into the weird and interesting side of things, trying to be informative while still keeping the view ingaged, even if they aren't into trains.",
+    "image": "train_of_thought.png",
+    "link": "https://youtube.fandom.com/wiki/Train_of_Thought"
+  },
+  {
+    "id": 270,
+    "term": "The Legend of Zelda: Twilight Princess",
+    "excerpt": "An action-adventure game by Nintendo.",
+    "description": "The Legend of Zelda: Twilight Princess is an action-adventure game made by Nintendo, and released for both the Nintendo GameCube, and Nintendo Wii in 2006. It was made in response to the fan reaction of The Legend of Zelda: The Wind Waker, which at the time did not do well due to its cartoony art style. Twilight Princess swings in the opposite direction, being one of the darker games in the series.",
+    "image": "the_legend_of_zelda_twilight_princess.png",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Twilight_Princess"
   }
 ]
