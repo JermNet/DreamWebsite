@@ -7,7 +7,7 @@ async function loadGlossaryTerm() {
   const container = document.getElementById("glossary-term");
 
   if (entry) {
-    document.title = `Glossary: ${entry.term}`;
+    document.title = `${entry.term}`;
 
     container.innerHTML = `
       <h1>${entry.term}</h1>
