@@ -1,13 +1,5 @@
 [
   {
-    "id": 100,
-    "title": "Lost in a Library",
-    "excerpt": "I wandered through an endless library filled with books that whispered their stories.",
-    "content": "Each book I opened transported me to a different world, but I could never find my way out.  [[Endless Train Ride]]",
-    "rating": 5,
-    "images": []
-  },
-  {
     "id": 0,
     "excerpt": "A dream about me playing Ace Attorney with some unexpected aspects.",
     "tags": ["games", "my home"],
