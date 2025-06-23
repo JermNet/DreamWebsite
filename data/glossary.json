@@ -1606,5 +1606,61 @@
     "description": "Balatro is an indie rougelike that uses the game of poker as a base. It tasks the player to use a deck of standard cards to meet high scores with poker hands. There are joker cards that can add, mutiply, and modify the score, as well as have special abilities, planet cards that can increase the power of a hand, and tarot cards that can modify your deck.",
     "image": "balatro.png",
     "link": "https://en.wikipedia.org/wiki/Balatro"
+  },
+  {
+    "id": 281,
+    "term": "Majin Buu",
+    "excerpt": "A character from the Dragon Ball franchise.",
+    "description": "Majin is a character from the Dragon Ball franchise, and was the last villain of the original Dragon Ball series. He was originally evil, but was an inoccent type of villain, doing bad things, but not knowing they were bad. He would eventually expell the evil part of him, that part becoming a seperate villain.",
+    "image": "majin_buu.png",
+    "link": "https://en.wikipedia.org/wiki/Majin_Buu"
+  },
+  {
+    "id": 282,
+    "term": "Great Teacher Onizuka",
+    "excerpt": "An anime and manga series about a young gangster turned teacher.",
+    "description": "Great Teacher Onizuka is an anime and manga series about a young teacher named Eikichi Onizuka who was once a gangster turned teacher. His goal is just to make money, and try to get laid, but he ends up helping students who hate teachers, slowly helping them solve their problems, since they were troubled just like when he was in school.",
+    "image": "great_teacher_onizuka.png",
+    "link": "https://en.wikipedia.org/wiki/Great_Teacher_Onizuka"
+  },
+  {
+    "id": 283,
+    "term": "Yoshito Kikuchi",
+    "excerpt": "A character from the anime and manga series Great Teacher Onizuka.",
+    "description": "Yoshito Kikuchi is a character from the anime and manga series Great Teacher Onizuka, and extremely inteligient with an IQ of 18-. He specifically is quite smart when it comes to computers, and used that skill to edit photos doing bad or perverse things to make them quit school. But, after seeing the tenacity of Onizuka, he changed his ways.",
+    "image": "yoshito_kikuchi.png",
+    "link": "https://great-teacher-onizuka-gto.fandom.com/wiki/Yoshito_Kikuchi"
+  },
+  {
+    "id": 284,
+    "term": "Jade West",
+    "excerpt": "A character from the Nickelodeon show Victorious.",
+    "description": "Jade West is one of the eight main characters of the Nickelodeon show Victorious. She's fits the role of the goth character, and is very antagonistic to the main character Tori Vega, and can won't hesitate to make it known when other characters do her wrong, too.",
+    "image": "jade_west.png",
+    "link": "https://victorious.fandom.com/wiki/Jade_West"
+  },
+  {
+    "id": 285,
+    "term": "Victorious",
+    "excerpt": "A Nickelodeon TV show from 2010.",
+    "description": "Victorious is a Nickelodeon TV show from 2010 following 8 main characters at the school Hollywood Arts, trying to make it big in the arts. The main character is Tori Vega, but many plots follow the other 7 characters, and is mostly an ensemble show.",
+    "image": "victorious.png",
+    "link": "https://en.wikipedia.org/wiki/Victorious"
+  },
+  {
+    "id": 286,
+    "term": "Sakurako Busujima",
+    "excerpt": "A character from the anime and manga series Grand Blue.",
+    "description": "Sakurako Busujima is a character from the anime and manga series Grand Blue, and considers herself a hard work in the realm of love. She's always very nice in front of men she likes, and nice in general to most people, but extremely sadistic to people who get on her bad side. She also struggles expressing her real feelings.",
+    "image": "sakurako_busujima.png",
+    "link": "https://grand-blue.fandom.com/wiki/Sakurako_Busujima"
+  },
+  {
+    "id": 287,
+    "term": "Grand Blue",
+    "excerpt": "An anime and manga series about diving.",
+    "description": "Grand Blue, also known as Grand Blue Dreaming, is an anime and manga series about diving, in which an the main character Iori Kitahara has to move in with his uncle who owns a diving shop since it's close to his college. He's excited, but that quickly goes away when he finds that the diving club full of buff men who spend more time drinking and stripping naked than diving. He tries to distance himself, but he gets swept up with them, and eventually becomes one of them.",
+    "image": "grand_blue.png",
+    "link": "https://en.wikipedia.org/wiki/Grand_Blue_Dreaming"
   }
 ]
