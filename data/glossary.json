@@ -1574,5 +1574,37 @@
     "description": "Fortnite is a game turned game platform created by Epic Games. Originally it was just the battle royale aspect, which involves 100 players landing on an island, and having to collect weapons and items to be the last one standing. Now, it includes much more like a single player mode, Fortnite Creative, Lego Fortnite, and much more.",
     "image": "fortnite.png",
     "link": "https://en.wikipedia.org/wiki/Fortnite"
+  },
+  {
+    "id": 277,
+    "term": "The Good, the Bad and the Ugly",
+    "excerpt": "An Italian spaghetti Western about the titular trio of characters.",
+    "description": "The Good, the Bad and the Ugly is an Itallian spaghetti Western about the titular three characters. Blondie, the good, is not really so good. He works with Tuco, the ugly, running a scheme where he keeps cashing in on Tucos bounty, then saving him so they can keep doing it. The last time they do this, however, he leaves Tuco in the desert, the two becoming enemies before each needing information from the other to get some burried gold. Angel Eyes, the bad, learns about this, and becomes a player in the game as well.",
+    "image": "the_good_the_bad_and_the_ugly.png",
+    "link": "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly"
+  },
+  {
+    "id": 278,
+    "term": "Terry Bogard",
+    "excerpt": "The main character of the Fatal Fury Series.",
+    "description": "Terry Bogard is the main character of the Fatal Fury series, and is kind of an American stereotype from Japan. He's a legendary fighter, and uses different abilities, typically involving fire and chi.",
+    "image": "terry_bogard.png",
+    "link": "https://snk.fandom.com/wiki/Terry_Bogard"
+  },
+  {
+    "id": 279,
+    "term": "Fatal Fury",
+    "excerpt": "A fighting game series by SNK.",
+    "description": "Fatal Fury is a fighting game series made by SNK, and was orignally known for its \"two-plane system\" in which characters jump between a front and back plane to fight, though this system would later be dropped. Now, it is mostly known for its wide cast of characters, and ring-out system.",
+    "image": "fatal_fury.png",
+    "link": "https://en.wikipedia.org/wiki/Fatal_Fury"
+  },
+  {
+    "id": 280,
+    "term": "Balatro",
+    "excerpt": "A poker based rougelike.",
+    "description": "Balatro is an indie rougelike that uses the game of poker as a base. It tasks the player to use a deck of standard cards to meet high scores with poker hands. There are joker cards that can add, mutiply, and modify the score, as well as have special abilities, planet cards that can increase the power of a hand, and tarot cards that can modify your deck.",
+    "image": "balatro.png",
+    "link": "https://en.wikipedia.org/wiki/Balatro"
   }
 ]
