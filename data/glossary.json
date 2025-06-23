@@ -1550,5 +1550,29 @@
     "description": "Vegito Blue is a fusion of Goku and Vegeta when they use the Potara earrings, and in the Super Sayian Blue transformation. The fusion was introduced near the end of the Dragon Ball manga and Dragon Ball Z anime, but the ability to turn Super Sayian Blue was introduced in Dragon Ball Super, as both Goku and Vegeta could use the transformation indivdually.",
     "image": "vegito_blue.png",
     "link": "https://dragonball.fandom.com/wiki/Vegito"
+  },
+  {
+    "id": 274,
+    "term": "Maya Fey",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Maya Fey is a character from the Ace Attorney series, and the assistant to the main character, Phoenix Wright. She's a spirit channeller, esentially having the ability to let the spirit of a dead person inhabit her body if she tries hard enough. She uses this ability to channel her sister, the mentor to the Phoenix Wright.",
+    "image": "maya_fey.png",
+    "link": "https://en.wikipedia.org/wiki/Maya_Fey"
+  },
+  {
+    "id": 275,
+    "term": "Pearl Fey",
+    "excerpt": "A character from the Ace Attorney series.",
+    "description": "Pearl Fey is a character from the Ace Attorney series, and the cousin to Maya Fey, an important character in the series. She's only a child, but not only does she have the ability to channel spirits like her sister, she also has a much stronger ability to.",
+    "image": "pearl_fey.png",
+    "link": "https://aceattorney.fandom.com/wiki/Pearl_Fey"
+  },
+  {
+    "id": 276,
+    "term": "Fortnite",
+    "exerpt": "A battle royale shooter game.",
+    "description": "Fortnite is a game turned game platform created by Epic Games. Originally it was just the battle royale aspect, which involves 100 players landing on an island, and having to collect weapons and items to be the last one standing. Now, it includes much more like a single player mode, Fortnite Creative, Lego Fortnite, and much more.",
+    "image": "fortnite.png",
+    "link": "https://en.wikipedia.org/wiki/Fortnite"
   }
 ]
