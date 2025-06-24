@@ -1662,5 +1662,21 @@
     "description": "Grand Blue, also known as Grand Blue Dreaming, is an anime and manga series about diving, in which an the main character Iori Kitahara has to move in with his uncle who owns a diving shop since it's close to his college. He's excited, but that quickly goes away when he finds that the diving club full of buff men who spend more time drinking and stripping naked than diving. He tries to distance himself, but he gets swept up with them, and eventually becomes one of them.",
     "image": "grand_blue.png",
     "link": "https://en.wikipedia.org/wiki/Grand_Blue_Dreaming"
+  },
+  {
+    "id": 288,
+    "term": "Cowboy Bebop: Shooting Star",
+    "excerpt": "A manga based on the Cowboy Bebop series.",
+    "description": "Cowboy Bebop: Shooting Star is a 2 volume manga based on the Cowboy Bebop anime. Despite this, it does not tell stories from the anime, instead opting to tell original stories. I read it a while a ago, and it was interesting enough, but I don't know if I would recommend it or not.",
+    "image": "cowboy_bebop_shooting_star.png",
+    "link": "https://cowboybebop.fandom.com/wiki/Manga"
+  },
+  {
+    "id": 289,
+    "term": "Austin Powers",
+    "excerpt": "A trilogy of parody spy films.",
+    "description": "Austin Powers is a trilogy of parody spy films, largely parodying the likes of James Bond, but containing parodies and references to other media. It takes place in \"modern day\" (the 90s), and follows the titular Austin Powers, who gets frozen in the 60s to end up in modern day, and defeat Dr. Evil.",
+    "image": "austin_powers.png",
+    "link": "https://en.wikipedia.org/wiki/Austin_Powers"
   }
 ]
