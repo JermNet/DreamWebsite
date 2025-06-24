@@ -10,7 +10,6 @@ async function loadGraveyardDream() {
     document.title = `Graveyard Dream: ${dream.title}`;
     container.innerHTML = `
         <h1>${dream.title}</h1>
-        <small>${dream.date || "Unknown Date"}</small>
         <p>${dream.content}</p>
     `;
     } else {
