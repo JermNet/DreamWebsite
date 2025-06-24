@@ -1678,5 +1678,45 @@
     "description": "Austin Powers is a trilogy of parody spy films, largely parodying the likes of James Bond, but containing parodies and references to other media. It takes place in \"modern day\" (the 90s), and follows the titular Austin Powers, who gets frozen in the 60s to end up in modern day, and defeat Dr. Evil.",
     "image": "austin_powers.png",
     "link": "https://en.wikipedia.org/wiki/Austin_Powers"
+  },
+  {
+    "id": 290,
+    "term": "Mao",
+    "excerpt": "A manga series by Rumiko Takahashi.",
+    "description": "Mao is a manga series by Rumiko Takahashi and follows Nanoka Kiba, who one day gets transported to the Taishō period (early 1900s) of Japan, meeting with a traveler name Mao, who is investigating a village inhabited by ghosts. Nanoka then consitently travels between her time and the past, investigating different phenomena with Mao and helping him in any way she can.",
+    "image": "mao.png",
+    "link": "https://en.wikipedia.org/wiki/Mao_(manga)"
+  },
+  {
+    "id": 291,
+    "term": "Mao (Character)",
+    "excerpt": "One of the main characters from the Mao manga series.",
+    "description": "Born 900 years ago, Mao was trained and tested as part of the Kou Clan in the way of spirits and the like. But, then he and 4 other deciples were tasked with killing each other for ownership of the clan, none of them able to die other than by each other's hand. Not only this, but Mao was saved by a demon named Byoki who's head wants to reclam the rest of his body that's a part of Mao.",
+    "image": "mao_character.png",
+    "link": "https://mao.fandom.com/wiki/Mao"
+  },
+  {
+    "id": 292,
+    "term": "Nanoka Kiba",
+    "excerpt": "The main character of the Mao manga series.",
+    "description": "Nanoka Kiba is the main character of the Mao manga series. When she was a child, she got in an accident, and just like Mao, has the cat demon Byoki's blood in her. She doesn't let this bother her too much, though. She's a brave and curious person and is determined to help Mao in any way she can.",
+    "image": "nanoka_kiba.png",
+    "link": "https://mao.fandom.com/wiki/Nanoka_Kiba"
+  },
+  {
+    "id": 293,
+    "term": "Ayakashi",
+    "excerpt": "A type of Japanese supernatural creature.",
+    "description": "An ayakashi is a name used for a subset of Yokai who appear at the surface of water. Almost think evil water spirits. In terms of the manga series Mao, ayakashi typically refers to animal based spirits.",
+    "image": "ayakashi.png",
+    "link": "https://en.wikipedia.org/wiki/Ayakashi_(y%C5%8Dkai)"
+  },
+  {
+    "id": 294,
+    "term": "Three's Company",
+    "excerpt": "A sitcom about one guy and two girls living together.",
+    "description": "Three's Company is a late 70s and early 80s sitcom about roommates Jack Tripper, Janet Wood, and Chrissy Snow (as well as other roommates later on) who live together in Santa Monica to save money. To make this arangement work with their landlord, though, Jack has to pretend to be gay, and the show follows the antics of that, as well as other sitcom plots. Despite the not greatly aged premise, I really like this show, and it actually aged better than you might think since Mr. Roper (the landlord) is often made fun of for how he views gay people.",
+    "image": "threes_company.png",
+    "link": "https://en.wikipedia.org/wiki/Three%27s_Company"
   }
 ]
