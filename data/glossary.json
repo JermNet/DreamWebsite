@@ -1774,5 +1774,29 @@
     "description": "Fuko Ibuki is a character from the Clannad series, and one of the main dateable heroines in the visual novel. She's a very strange girl, having a very childish perspective on just about everything. There's a lot more to her, especially when it comes to why she acts like that, but that is spoiler teritory.",
     "image": "fuko_ibuki.png",
     "link": "https://clannad.fandom.com/wiki/Fuko_Ibuki"
+  },
+  {
+    "id": 302,
+    "term": "Maddison",
+    "excerpt": "A person I knew in high school.",
+    "description": "Maddison (not her real name) was someone I sort of knew in high school. She originated from middle school, but was in Pamela's class, but everybody knew everybody a little bit back then, even if only by name. She then would pop up here and there in high school to talk to Pamela. From what I understood, she was one of the \"popular\" girls, but I very well could be wrong.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 303,
+    "term": "Amanda",
+    "excerpt": "A person I knew in middle school.",
+    "description": "Amanda (not her real name) was someone I knew in middle school. We didn't really know each other that well, but we probably interacted more than we otherwise would because me, Victor, and Daniel were friends with her friend.",
+    "images": "",
+    "link": ""
+  },
+  {
+    "id": 304,
+    "term": "Northernlion",
+    "excerpt": "A gaming YouTuber and streamer.",
+    "description": "Northernlion is a gaming YouTuber and streamer who originally got popular by playing The Binding Of Isaac, and the creator of the game even credits some of the sales to him. Personally, I started watching him because I was curious as to what Nubby's Number Factory was.",
+    "images": "northernlion.png",
+    "link": "https://en.wikipedia.org/wiki/Northernlion"
   }
 ]
