@@ -1742,5 +1742,37 @@
     "description": "Pokémon Legends: Arceus is an action role-playing game made by Game Freak, and is a Pokémon game that takes place far in the past. The player gets transported from the present day Sinnoh reigon to the past reigon of Hisui, and has to go about researching and catching Pokémon in an era where that is a brand new thing.",
     "image": "pokemon_legends_arceus.png",
     "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus"
+  },
+  {
+    "id": 298,
+    "term": "Henry",
+    "excerpt": "A personal aquaintence of mine from my required schooling days.",
+    "description": "Henry (not his real name) was an aquaintence from my required schooling days. We were friends, but we kind of ended up taking our own paths, which naturally does happen. It also partly happened because he tried being one of the \"cool kids\" by smoking when we were middle school, but he ended up pretty well adjusted by high school.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 299,
+    "term": "Austin Evans",
+    "excerpt": "A YouTuber who focuses on technology.",
+    "description": "Austin Evans is a YouTuber who focuses on technology, often delving into if products are scams or not. He ranges his topics of conversation from video games consoles to personal computer to things that are more out there like toasters.",
+    "image": "austin_evans.png",
+    "link": "https://en.wikipedia.org/wiki/Austin_Evans_(YouTuber)"
+  },
+  {
+    "id": 300,
+    "term": "Key",
+    "excerpt": "A Japanese visual novel studio.",
+    "description": "Key is a Japanese visual novel studio formed in 1998 under the Visual Arts. It's most known for producing visual novels such as Kanon, Air, and Clannad. Key has also collaborated with P.A. Works and Aniplex to create three original anime series, Angel Beats!, Charlotte, and The Day I Became a God.",
+    "image": "key.png",
+    "link": "https://en.wikipedia.org/wiki/Key_(company)"
+  },
+  {
+    "id": 301,
+    "term": "Fuko Ibuki",
+    "excerpt": "A character from the Clannad series.",
+    "description": "Fuko Ibuki is a character from the Clannad series, and one of the main dateable heroines in the visual novel. She's a very strange girl, having a very childish perspective on just about everything. There's a lot more to her, especially when it comes to why she acts like that, but that is spoiler teritory.",
+    "image": "fuko_ibuki.png",
+    "link": "https://clannad.fandom.com/wiki/Fuko_Ibuki"
   }
 ]
