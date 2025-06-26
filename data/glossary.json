@@ -1788,7 +1788,7 @@
     "term": "Amanda",
     "excerpt": "A person I knew in middle school.",
     "description": "Amanda (not her real name) was someone I knew in middle school. We didn't really know each other that well, but we probably interacted more than we otherwise would because me, Victor, and Daniel were friends with her friend.",
-    "images": "",
+    "image": "",
     "link": ""
   },
   {
@@ -1796,7 +1796,31 @@
     "term": "Northernlion",
     "excerpt": "A gaming YouTuber and streamer.",
     "description": "Northernlion is a gaming YouTuber and streamer who originally got popular by playing The Binding Of Isaac, and the creator of the game even credits some of the sales to him. Personally, I started watching him because I was curious as to what Nubby's Number Factory was.",
-    "images": "northernlion.png",
+    "image": "northernlion.png",
     "link": "https://en.wikipedia.org/wiki/Northernlion"
+  },
+  {
+    "id": 305,
+    "term": "Lego",
+    "excerpt": "A company that makes plastic construction toys.",
+    "description": "Lego is a company that makes plastic construction toys in the form of bricks. They also come in many other shapes, prepackaged sets, and different licensed themes. One of the most iconic parts about Lego is the simple Lego man.",
+    "image": "lego.png",
+    "link": "https://en.wikipedia.org/wiki/Lego" 
+  },
+  {
+    "id": 306,
+    "term": "DMC DeLorean",
+    "excerpt": "A car most known for its use in Back to the Future.",
+    "description": "The DMC DeLorean was a car produced by the DeLorean motor company in 1981 and 1982. If you know this car, there's a 99.9% chance that it's because of Back to the Future, being the time machine in that series of movies. To be honest, I'm not a car guy, so I don't know if it's a good car or not. Though, I do know it can hit 88 miles per hour.",
+    "image": "dmc_delorean.png",
+    "link": "https://en.wikipedia.org/wiki/DMC_DeLorean"
+  },
+  {
+    "id": 307,
+    "term": "Sam (Big)",
+    "excerpt": "A friend from high school gym class.",
+    "description": "Sam (not his real name) was a friend from high school gym class. We talked and such outside of gym, but he was one of the friends you're kind of only friends with for a class. He was very nice, though, and we dubbed him big Sam in a nice way, since he was big horizontally and vertically (he was also comically big next to standard male Sam).",
+    "image": "",
+    "link": ""
   }
 ]
