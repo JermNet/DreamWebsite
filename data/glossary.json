@@ -1822,5 +1822,69 @@
     "description": "Sam (not his real name) was a friend from high school gym class. We talked and such outside of gym, but he was one of the friends you're kind of only friends with for a class. He was very nice, though, and we dubbed him big Sam in a nice way, since he was big horizontally and vertically (he was also comically big next to standard male Sam).",
     "image": "",
     "link": ""
+  },
+  {
+    "id": 308,
+    "term": "New Super Mario Bros. DS",
+    "excerpt": "The first entry in the New Super Mario Bros. series.",
+    "description": "New Super Mario Bros. DS is the first entry in the New Super Mario Bros. series, and was the first 2D Mario game in quite some time at the time. It follows the standard formula of running and jumping, but adds new power ups, and moves that Mario only used in the 3D games until then.",
+    "image": "new_super_mario_bros_ds.png",
+    "link": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros."
+  },
+  {
+    "id": 309,
+    "term": "Rom Hack",
+    "excerpt": "A fan made modification to a preexisting game.",
+    "description": "A rom hack is a fan made modification to a preexisting game, typically adding new content, or changing the already existing content. This is typically done with programs made specifically for the game to rom hacked. For example, the program Lunar Magic is used to make Super Mario World rom hacks.",
+    "image": "",
+    "link": "https://en.wikipedia.org/wiki/ROM_hacking"
+  },
+  {
+    "id": 310,
+    "term": "Nintendo DS",
+    "excerpt": "A handheld gaming console by Nintendo.",
+    "description": "The Nintendo DS is a handheld gaming console made by Nintendo and released in 2004. It had the two unique gimmicks of having not only two screens, but having the bottom screen be a touch screen, which was quite novel at the time. Because of this, and the marketing being aimed towards not just gamers, it sold extremely well.",
+    "image": "nintendo_ds.png",
+    "link": "https://en.wikipedia.org/wiki/Nintendo_DS"
+  },
+  {
+    "id": 311,
+    "term": "Game Boy Advance SP",
+    "excerpt": "An upgraded revision of the Game Boy Advance.",
+    "description": "The Game Boy Advance SP is an upgraded revision of the original Game Boy Advance, featuring a brand new clam shell design to protect the screen, and a screen light. There were even two versions of the Game Boy Advance SP, with the second having a backlight instead of a front light.",
+    "image": "game_boy_advance_sp.png",
+    "link": "https://en.wikipedia.org/wiki/Game_Boy_Advance_SP"
+  },
+  {
+    "id": 312,
+    "term": "Pokémon FireRed",
+    "excerpt": "A remake of the original Pokémon Red.",
+    "description": "Pokémon FireRed, is a remake of the first generation of Pokémon, specifically Pokémon Red, and paired with Pokémon LeafGreen, based on the Japanese exclusive Pokémon Green. It released in 2004 for the Game Boy Advance, and features update graphics, music, mechanics, and the new Pokémon from generation 2 and 3.",
+    "image": "pokemon_firered.png",
+    "link": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen"
+  },
+  {
+    "id": 313,
+    "term": "Petalburg Woods",
+    "excerpt": "A location from Pokémon Ruby, Sapphire, and Emerald.",
+    "description": "Petalburg Woods is a location from Pokémon Ruby, Sapphire, and Emerald, and is one of the early locations in the game. It also follows the trope of Pokémon games having a forest location early on in the game.",
+    "image": "petalburg_woods.png",
+    "link": "https://bulbapedia.bulbagarden.net/wiki/Petalburg_Woods"
+  },
+  {
+    "id": 314,
+    "term": "Queen",
+    "excerpt": "A 1970s British rock band.",
+    "description": "Queen is a 1970s British rock band, most known for Freddie Mercury as the lead singer. The band has done many songs, and many famous songs such as I Want To Break Free, We Will Rock You, Don't Stop Me Now, and many, many more.",
+    "image": "queen.png",
+    "link": "https://en.wikipedia.org/wiki/Queen_(band)"
+  },
+  {
+    "id": 315,
+    "term": "Hip to Be Square",
+    "excerpt": "A song by the band Huey Lewis and the News.",
+    "description": "Hip to Be Square is a song by the band Huey Lewis and the News, and released on October 6th, 1986. It is most known for its use in the hit film American Psycho, and has been parodied many times specifically because of the scene from the movie using it.",
+    "image": "hip_to_be_square.png",
+    "link": "https://en.wikipedia.org/wiki/Hip_to_Be_Square"
   }
 ]
