@@ -1886,5 +1886,21 @@
     "description": "Hip to Be Square is a song by the band Huey Lewis and the News, and released on October 6th, 1986. It is most known for its use in the hit film American Psycho, and has been parodied many times specifically because of the scene from the movie using it.",
     "image": "hip_to_be_square.png",
     "link": "https://en.wikipedia.org/wiki/Hip_to_Be_Square"
+  },
+  {
+    "id": 316,
+    "term": "Shantae (Character)",
+    "excerpt": "The main character of the Shantae video game series.",
+    "description": "Shantae is the main character of the Shantae video game series made by WayForward. She is half human, and half genie, and as a result, is the guardian of Scuttle Town. She is often fighting against her rival, Risky Boots, who wants wealth and power.",
+    "image": "shantae_character.png",
+    "link": "https://shantae.fandom.com/wiki/Shantae"
+  },
+  {
+    "id": 317,
+    "term": "Misato Katsuragi",
+    "excerpt": "A character from the Neon Genesis Evangelion series.",
+    "description": "Misato Katsuragi is a character from the Neon Genesis Evangelion series, and is the head of the operations department at Nerv, an agency dedicated to defeating Angels which threaten humanity. She does extremely well at her job, but hides her intelligence at home with her vices of sex and alcohol.",
+    "image": "misato_katsuragi.png",
+    "link": "https://en.wikipedia.org/wiki/Misato_Katsuragi"
   }
 ]
