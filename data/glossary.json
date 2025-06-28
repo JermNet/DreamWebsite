@@ -1902,5 +1902,45 @@
     "description": "Misato Katsuragi is a character from the Neon Genesis Evangelion series, and is the head of the operations department at Nerv, an agency dedicated to defeating Angels which threaten humanity. She does extremely well at her job, but hides her intelligence at home with her vices of sex and alcohol.",
     "image": "misato_katsuragi.png",
     "link": "https://en.wikipedia.org/wiki/Misato_Katsuragi"
+  },
+  {
+    "id": 318,
+    "term": "YouTube",
+    "excerpt": "A popular video sharing platform.",
+    "description": "YouTube is a popular video sharing platform that was founded on Valentines Day of 2005. Pretty much everyone knows what YouTube is, and many people make a living off of it in one way or another. The scale of YouTube is incredible, with more than 500 hours of video being published per minute as of 2019, and has likely only increased.",
+    "image": "youtube.png",
+    "link": "https://en.wikipedia.org/wiki/YouTube"
+  },
+  {
+    "id": 319,
+    "term": "YouTuber",
+    "excerpt": "A person who makes videos for the video sharing platform YouTube.",
+    "description": "A YouTuber is a person who makes videos for the video sharing platform YouTube, typically making some sort of revenue from ads or sponsorships, but that's not a requirement. As weird as it is to some, this is just a standard job now, just with an extremely lucky barrier to entry.",
+    "image": "",
+    "link": "https://en.wikipedia.org/wiki/YouTuber"
+  },
+  {
+    "id": 320,
+    "term": "Discord",
+    "excerpt": "An instant messaging and social media platform.",
+    "description": "Discord is an instant messaging and social media platform where people communicate in private or public servers. It was mostly made with gaming in mind, but many people simply use it as their main form of communication.",
+    "image": "discord.png",
+    "link": "https://en.wikipedia.org/wiki/Discord"
+  },
+  {
+    "id": 321,
+    "term": "The Old Man",
+    "excerpt": "An old man in our neighbourhood.",
+    "description": "The Old Man is a nice old man in our neighbourhood, who would share stories and even play video games with us sometimes. He's still around, and we talk every once in a while, but things are a bit different now that we have grown up.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 322,
+    "term": "Canva",
+    "excerpt": "A web based graphic design platform.",
+    "description": "Canva is a web based graphic design platform that was founded on January 1st, 2013. Many people use it for various things such as posters, presentations, workshops, and even more. I even used it back in high school, and for one of my jobs.",
+    "image": "canva.png",
+    "link": "https://en.wikipedia.org/wiki/Canva"
   }
 ]
