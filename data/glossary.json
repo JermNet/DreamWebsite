@@ -1942,5 +1942,13 @@
     "description": "Canva is a web based graphic design platform that was founded on January 1st, 2013. Many people use it for various things such as posters, presentations, workshops, and even more. I even used it back in high school, and for one of my jobs.",
     "image": "canva.png",
     "link": "https://en.wikipedia.org/wiki/Canva"
+  },
+  {
+    "id": 323,
+    "term": "NPC",
+    "excerpt": "Stands for Non-Player Character, typically referring to video games.",
+    "description": "NPC is an acronym that stands for Non-Player Character, and typically refers to characters in video games that can't be played as. But, in recent times, it has been used to describe the energy some people give off, if they repeat common phrases, or do the same actions over and over again.",
+    "image": "",
+    "link": "https://en.wikipedia.org/wiki/Non-player_character"
   }
 ]
