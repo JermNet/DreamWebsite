@@ -1950,5 +1950,53 @@
     "description": "NPC is an acronym that stands for Non-Player Character, and typically refers to characters in video games that can't be played as. But, in recent times, it has been used to describe the energy some people give off, if they repeat common phrases, or do the same actions over and over again.",
     "image": "",
     "link": "https://en.wikipedia.org/wiki/Non-player_character"
+  },
+  {
+    "id": 324,
+    "term": "Charizard",
+    "excerpt": "A Pokémon from the first generation of Pokémon games.",
+    "description": "Charizard is a Pokémon from the first generation of Pokémon games, and represents the Pokémon Red game. Charizard is one of the most popular Pokémon, getting many different forms, pieces of merchandise, and whatever else.",
+    "image": "charizard.png",
+    "link": "https://en.wikipedia.org/wiki/Charizard"
+  },
+  {
+    "id": 325,
+    "term": "Mega Bloks",
+    "excerpt": "A Canadian children's toy company.",
+    "description": "Mega Bloks is a Canadian children's toy company, and subsidiary of Mattel. It is most known for its Lego-style construction toys, and brand collaborations with SpongeBob, Pokémon, and more.",
+    "image": "mega_bloks.png",
+    "link": "https://en.wikipedia.org/wiki/Mega_Brands"
+  },
+  {
+    "id": 326,
+    "term": "Gashapon",
+    "excerpt": "A type of vending machine that dispenses toys in capsules.",
+    "description": "A Gashapon machine is a type of vending machine that dispenses toys in small capsules. The name comes from two Japanese onomatopoeia, \"gasha,\" the sound of the hand turning the crank with the coin, and \"pon,\" the sound of the capsule hitting the collection tray.",
+    "image": "gashapon.png",
+    "link": "https://en.wikipedia.org/wiki/Gashapon"
+  },
+  {
+    "id": 327,
+    "term": "Monty Python",
+    "excerpt": "A British comedy troupe formed in the late 60s.",
+    "description": "Monty Python is a British comedy troupe formed in the late 60s, and became popular though their sketch comedy series Monty Python's Flying Circus. It was a ground breaking show at the time in terms of pushing what could be done on TV.",
+    "image": "monty_python.png",
+    "link": "https://en.wikipedia.org/wiki/Monty_Python"
+  },
+  {
+    "id": 328,
+    "term": "Barry",
+    "excerpt": "Someone I knew in elementary and middle school.",
+    "description": "Barry (not his real name) was someone I (and we all) knew in elementary school and middle school. He was a grade failer, and not the sad kind where personal circumstance gets in the way of doing well. He just didn't want to put the effort in, but that's not why we all knew him. One time in science, the actual principal came in and gave him a bag of personal hygiene stuff since he stunk so bad.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 329,
+    "term": "yikes",
+    "excerpt": "A YouTuber who makes challenge videos.",
+    "description": "yikes is a YouTuber who makes challenge videos, often trying to complete a certain task over a relatively short period of time. For example, in one video he tried to become the most popular person on the Lego social media Lego Life in 30 days.",
+    "image": "yikes.png",
+    "link": "https://youtube.fandom.com/wiki/Yikes"
   }
 ]
