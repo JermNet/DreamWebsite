@@ -2022,5 +2022,37 @@
     "description": "Nickelodeon is an American paid TV channel consisting largely of cartoons, but with exceptions. It is known for many different pieces of children's programming, but it is most known for the likes of SpongeBob SquarePants, Rugrats, The Loud House, and many, many more.",
     "image": "nickelodeon.png",
     "link": "https://en.wikipedia.org/wiki/Nickelodeon"
+  },
+  {
+    "id": 333,
+    "term": "Spider-Man (Sam Raimi)",
+    "excerpt": "A trilogy of superhero movies.",
+    "description": "The Spider-Man movies are a trilogy of superhero movies directed by Sam Raimi, and released throughout the 2000s. They're known for their incredible special effects, and for reviving the concept of the superhero movie after Superman 4 had killed the idea.",
+    "image": "spider_man_sam_raimi.png",
+    "link": "https://en.wikipedia.org/wiki/Spider-Man_(2002_film)"
+  },
+  {
+    "id": 334,
+    "term": "Neon Genesis Evangelion",
+    "excerpt": "A Japanese mecha franchise.",
+    "description": "Neon Genesis Evangelion is a Japanese mecha franchise, with the anime airing from 1995 to 1996. It takes place in a post apocalyptic 2015 after the world changing event of the Second Impact. It follows 3 children, Shinji Ikari, Rei Ayanami, and Asuka Langley Soryu who have to fight in giant robots called Evangelions to defeat the angels which are threatening the world.",
+    "image": "neon_genesis_evangelion.png",
+    "link": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+  },
+  {
+    "id": 335,
+    "term": "Evangelion Unit-01",
+    "excerpt": "A mecha from the Neon Genesis Evangelion series.",
+    "description": "Evangelion Unit-01 is a mecha from the Neon Genesis Evangelion series, and is a prototype from the Evangelion series. As a result, it goes into berserk mode sometimes, acting independently from its pilot, outside instruction, or even power.",
+    "image": "evangelion_unit_01.png",
+    "link": "https://evangelion.fandom.com/wiki/Evangelion_Unit-01"
+  },
+  {
+    "id": 336,
+    "term": "Paramount Pictures",
+    "excerpt": "An American film production and distribution company.",
+    "description": "Paramount Pictures, often known as just Paramount, is an American film production and distribution company, and is one of the oldest film studios in the world. It has produced and released many films such as the Top Gun movies, Titanic, and the transformers movies.",
+    "image": "paramount_pictures.png",
+    "link": "https://en.wikipedia.org/wiki/Paramount_Pictures"
   }
 ]
