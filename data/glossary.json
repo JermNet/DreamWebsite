@@ -105,11 +105,11 @@
   },
   {
     "id": 13,
-    "term": "Mrs. Science 9",
-    "excerpt": "My grade 9 science teacher.",
-    "description": "Mrs. Science 9 was my grade 9 (and grade 7) science teacher in middle school. She was kind of hard on us, and a lot of students didn't like her because of that. But she was a good teacher, and clearly just wanted us to do well in future, where things would be tougher. Appearance-wise, she was fairly short, had long dirty blonde hair, and was probably in her mid to late 30s at the time. She also took her reputation among the students with a bit of pride, and would sometimes joke about it.",
-    "image": "",
-    "link": ""
+    "term": "iPhone",
+    "excerpt": "A line of smartphones made by Apple.",
+    "description": "iPhone is a line of smartphones made by Apple that run IOS, an operating system made by Apple as well. The first generation of iPhone was announced by Steve Jobs, the Apple CEO, on January 9th, 2007, a released a year later. Ever since then, there have been yearly releases of iPhone due to their popularity.",
+    "image": "iphone.png",
+    "link": "https://en.wikipedia.org/wiki/IPhone"
   },
   {
     "id": 14,
@@ -2086,5 +2086,53 @@
     "description": "The Flying Scotsman is a LNER Class A3-4-6-3 Pacific steam train, built for the London and North Eastern Railway back in 1923. It is known as the world's most famous steam engine, running many lines both pre and post restoration.",
     "image": "the_flying_scotsman.png",
     "link": "https://en.wikipedia.org/wiki/LNER_Class_A3_4472_Flying_Scotsman"
+  },
+  {
+    "id": 341,
+    "term": "Samsung Galaxy",
+    "excerpt": "A brand of phone made by Samsung.",
+    "description": "The Samsung Galaxy is a brand of phone made by Samsung that started in 2015. Other than phones, the series also includes laptops, headphones, watches, and tablets. The Samsung Galaxy series is known for bringing the Android operating system into the mainstream.",
+    "image": "samsung_galaxy.png",
+    "link": "https://en.wikipedia.org/wiki/Samsung_Galaxy"
+  },
+  {
+    "id": 342,
+    "term": "Magic Mouse",
+    "excerpt": "A wireless computer mouse made by Apple.",
+    "description": "The Magic Mouse is a wireless computer mouse made by apple, and released in late 2009. There are 2 generations of Magic Mouse, with three revisions total. The first used AA batteries, the second used a rechargeable battery with Apple's proprietary charging cable, and the most recent uses USB-C.",
+    "image": "magic_mouse.png",
+    "link": "https://en.wikipedia.org/wiki/Magic_Mouse"
+  },
+  {
+    "id": 343,
+    "term": "Palutena",
+    "excerpt": "A character from the Kid Icarus series.",
+    "description": "Palutena is a character from the Kid Icarus series, and the Goddess of Light. She is kind and benevolent, but can be petty at times, especially so since she's a goddess. She is also the ruler of Angel Land, and gives the main character, Pit, his ability to fly.",
+    "image": "palutena.png",
+    "link": "https://kidicarus.fandom.com/wiki/Palutena"
+  },
+  {
+    "id": 344,
+    "term": "Batman",
+    "excerpt": "An American superhero who appears in comics made by DC Comics.",
+    "description": "Batman is an American superhero who appears in comic made by DC Comics, and was created by Bob Kane and Bill Finger. First appearing in Detective Comics issue 27 on March 30th, 1939, Batman has become one of the most iconic superheros of the 20th and 21st centuries.",
+    "image": "batman.png",
+    "link": "https://en.wikipedia.org/wiki/Batman"
+  },
+  {
+    "id": 345,
+    "term": "Bruce Wayne",
+    "excerpt": "The alter-ego of the superhero Batman",
+    "description": "Bruce Wayne is the alter-ego of the superhero Batman, and is often depicted as a rich, philanthropist playboy. In actuality, he's Batman, deciding to become a superhero after the deaths of both his parents at the hands of Joe Chill.",
+    "image": "bruce_wayne.png",
+    "link": "https://en.wikipedia.org/wiki/Bruce_Wayne_(Gotham)"
+  },
+  {
+    "id": 346,
+    "term": "Loot Crate",
+    "excerpt": "A subscription box service established in 2012.",
+    "description": "Loot Crate is a subscription box service established in 2012, and provides monthly boxes with pop culture related items. They've had many different brands partner with them including Nintendo, DC, Marvel, Sega, Sony, and more.",
+    "image": "loot_crate.png",
+    "link": "https://en.wikipedia.org/wiki/Loot_Crate"
   }
 ]
