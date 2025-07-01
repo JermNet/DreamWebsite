@@ -2134,5 +2134,45 @@
     "description": "Loot Crate is a subscription box service established in 2012, and provides monthly boxes with pop culture related items. They've had many different brands partner with them including Nintendo, DC, Marvel, Sega, Sony, and more.",
     "image": "loot_crate.png",
     "link": "https://en.wikipedia.org/wiki/Loot_Crate"
+  },
+  {
+    "id": 347,
+    "term": "Avatar: The Last Airbender",
+    "excerpt": "An animated fantasy action TV show.",
+    "description": "Avatar: The Last Airbender is an animated fantasy action TV show made by Michael Dante DiMartino and Bryan Konietzko. It follows Aang, the last survivor of the air benders, and the Avatar, a person who can manipulate all four elements (water, earth, fire, air). He, along with his friends, have to prevent the fire nation from taking over the world.",
+    "image": "avatar_the_last_airbender.png",
+    "link": "https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender"
+  },
+  {
+    "id": 348,
+    "term": "Aang",
+    "excerpt": "The main character of Avatar: The Last Airbender.",
+    "description": "Aang is the main character of Avatar: The Last Airbender. He is the Avatar, which makes him able to control all four elements (water, earth, fire, air). He is also the last of his kind, being frozen in ice for 100 years, and with the help of his friends, needs to reclaim the world from the fire nation.",
+    "image": "aang.png",
+    "link": "https://avatar.fandom.com/wiki/Aang"
+  },
+  {
+    "id": 349,
+    "term": "Yosemite Sam",
+    "excerpt": "A character from the Looney Tunes series.",
+    "description": "Yosemite Sam is a character from the Looney Tunes series, and is depicted as an angry, gun wielding outlaw. He is one of the many enemies of Bug Bunny, and naturally, is always outsmarted by the rabbit.",
+    "image": "yosemite_sam.png",
+    "link": "https://en.wikipedia.org/wiki/Yosemite_Sam"
+  },
+  {
+    "id": 350,
+    "term": "Minecraft",
+    "excerpt": "A sandbox voxel based video game.",
+    "description": "Minecraft is a sandbox, voxel based video game that released in 2011 by Mojang Studios, though the first public alpha was released in 2009. It is considered one of the most popular games of all time, with over 350 million copies sold, and over 140 million active monthly players.",
+    "image": "minecraft.png",
+    "link": "https://en.wikipedia.org/wiki/Minecraft"
+  },
+  {
+    "id": 351,
+    "term": "Enderman",
+    "excerpt": "A creature from the video game Minecraft.",
+    "description": "The Enderman is a creature from the video game Minecraft, and is seen teleporting and picking up blocks. It is normally neutral, but when either attacked, or looked at in the eyes, they will attack the player.",
+    "image": "enderman.png",
+    "link": "https://minecraft.fandom.com/wiki/Enderman"
   }
 ]
