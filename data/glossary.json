@@ -2054,5 +2054,37 @@
     "description": "Paramount Pictures, often known as just Paramount, is an American film production and distribution company, and is one of the oldest film studios in the world. It has produced and released many films such as the Top Gun movies, Titanic, and the transformers movies.",
     "image": "paramount_pictures.png",
     "link": "https://en.wikipedia.org/wiki/Paramount_Pictures"
+  },
+  {
+    "id": 337,
+    "term": "No Frills",
+    "excerpt": "A Canadian chain of discount supermarkets.",
+    "description": "No Frills is a Canadian chain of discount supermarkets. My family shops there a lot, and I personally used to buy DVDs there when they had them, which they sadly no longer do.",
+    "image": "no_frills.png",
+    "link": "https://en.wikipedia.org/wiki/No_Frills_(grocery_store)"
+  },
+  {
+    "id": 338,
+    "term": "Janet",
+    "excerpt": "Someone I knew in elementary and middle school.",
+    "description": "Janet (not her real name) was someone I knew in elementary and middle school, and someone I didn't really interact with too much. She would be nice sometimes, indifferent other times, and rude even otherer times. She's probably alright now, but I don't know. She also had a crush on one of my friends apparently.",
+    "image": "",
+    "link": ""
+  },
+  {
+    "id": 339,
+    "term": "Ritsuko Akagi",
+    "excerpt": "A character from the Neon Genesis Evangelion series.",
+    "description": "Ritsuko Akagi is a character from the Neon Genesis Evangelion series, and is the head scientist at Nerv, and often takes charge in repairing the Evangelions as well as the defenses of Tokyo-3. She is also the daughter of Naoko Akagi, the developer of Nerv's supercomputer system, Magi.",
+    "image": "ritsuko_akagi.png",
+    "link": "https://evangelion.fandom.com/wiki/Ritsuko_Akagi"
+  },
+  {
+    "id": 340,
+    "term": "The Flying Scotsman",
+    "excerpt": "A LNER Class A3-4-6-2 Pacific steam train.",
+    "description": "The Flying Scotsman is a LNER Class A3-4-6-3 Pacific steam train, built for the London and North Eastern Railway back in 1923. It is known as the world's most famous steam engine, running many lines both pre and post restoration.",
+    "image": "the_flying_scotsman.png",
+    "link": "https://en.wikipedia.org/wiki/LNER_Class_A3_4472_Flying_Scotsman"
   }
 ]
