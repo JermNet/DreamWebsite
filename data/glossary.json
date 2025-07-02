@@ -2214,5 +2214,21 @@
     "description": "Elton John is a British singer, songwriter and pianist. He's most known for his music, as well as his showmanship, often wearing very flamboyant outfits. He has had a large impact on the music industry, having sold over 300 million records sold worldwide.",
     "image": "elton_john.png",
     "link": "https://en.wikipedia.org/wiki/Elton_John"
+  },
+  {
+    "id": 357,
+    "term": "McDonald's",
+    "excerpt": "An American fast food chain.",
+    "description": "McDonald's is an American fast food chain, and has the second most locations in the world, only behind Mixue Ice Cream & Tea. It was founded in 1940, and the classic golden arches were introduced in 1953. It is one of the most popular locations not just in America, but in the world.",
+    "image": "mcdonalds.png",
+    "link": "https://en.wikipedia.org/wiki/McDonald%27s"
+  },
+  {
+    "id": 358,
+    "term": "Supernanny",
+    "excerpt": "A British reality television show.",
+    "description": "Supernanny is a British reality television show about parents who can't control their children, and call in the professional nanny Jo Frost, who tries to not only help discipline the children, but teach the parents how to do things properly in the future.",
+    "image": "supernanny.png",
+    "link": "https://en.wikipedia.org/wiki/Supernanny"
   }
 ]
