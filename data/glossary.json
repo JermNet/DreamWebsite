@@ -9,10 +9,10 @@
   },
   {
     "id": 1,
-    "term": "3DS XL",
+    "term": "3DS",
     "excerpt": "A handheld gaming console by Nintendo.",
-    "description": "The Nintendo 3DS XL is the version of the Nintendo 3DS that has a larger screen than the original. It was released in 2012, and had the main gimmick of being able to play games in 3D without glasses. Some games you might know that were released on the 3DS XL (and normal 3DS) include: Animal Crossing: New Leaf, The Legend of Zelda: Ocarina of Time 3D, and Super Mario 3D Land.",
-    "image": "3ds_xl.png",
+    "description": "The Nintendo 3DS is a handheld gaming console by Nintendo. It was released in 2012, and had the main gimmick of being able to play games in 3D without glasses. Some games you might know that were released on the 3DS include: Animal Crossing: New Leaf, The Legend of Zelda: Ocarina of Time 3D, and Super Mario 3D Land.",
+    "image": "3ds.png",
     "link": "https://en.wikipedia.org/wiki/Nintendo_3DS"
   },
   {
