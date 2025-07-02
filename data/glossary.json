@@ -2174,5 +2174,45 @@
     "description": "The Enderman is a creature from the video game Minecraft, and is seen teleporting and picking up blocks. It is normally neutral, but when either attacked, or looked at in the eyes, they will attack the player.",
     "image": "enderman.png",
     "link": "https://minecraft.fandom.com/wiki/Enderman"
+  },
+  {
+    "id": 352,
+    "term": "Xbox 360",
+    "excerpt": "A home video game console by Microsoft.",
+    "description": "The Xbox 360 is a home video game console by Microsoft, and is the second console made by Microsoft. It released at the end of 2005, being a part of the seventh generation of video game consoles along with the PlayStation 3 and Nintendo Wii.",
+    "image": "xbox_360.png",
+    "link": "https://en.wikipedia.org/wiki/Xbox_360"
+  },
+  {
+    "id": 353,
+    "term": "Woodland Mansion",
+    "excerpt": "A naturally generated structure from the video game Minecraft.",
+    "description": "The Woodland Mansion is a naturally generated structure from the video game Minecraft, and is found in dark forests and pale gardens, often far away from the spawn point of the world. They are typically filled with vindicators and evokers, hostile mobs that will attack the player.",
+    "image": "woodland_mansion.png",
+    "link": "https://minecraft.wiki/w/Woodland_Mansion"
+  },
+  {
+    "id": 354,
+    "term": "Mickey Mouse Clubhouse",
+    "excerpt": "An animated television show for preschoolers.",
+    "description": "Mickey Mouse Clubhouse is an animated television show for preschoolers featuring Mickey, Minnie, Donald, Daisy, Goofy and Pluto who interact with the viewers to simulate them solving the problem contained within an episode of the show.",
+    "image": "mickey_mouse_clubhouse.png",
+    "link": "https://en.wikipedia.org/wiki/Mickey_Mouse_Clubhouse"
+  },
+  {
+    "id": 355,
+    "term": "\"Weird Al\" Yankovic",
+    "excerpt": "An American comedy musician.",
+    "description": "\"Weird Al\" Yankovic is an American comedy musician, and is known for making parody songs of preexisting songs, poking fun at the original. He has made more than 150 songs, done more than 1000 live shows, and has made various appearance on TV.",
+    "image": "weird_al_yankovic.png",
+    "link": "https://en.wikipedia.org/wiki/%22Weird_Al%22_Yankovic"
+  },
+  {
+    "id": 356,
+    "term": "Elton John",
+    "excerpt": "A British singer, songwriter and pianist.",
+    "description": "Elton John is a British singer, songwriter and pianist. He's most known for his music, as well as his showmanship, often wearing very flamboyant outfits. He has had a large impact on the music industry, having sold over 300 million records sold worldwide.",
+    "image": "elton_john.png",
+    "link": "https://en.wikipedia.org/wiki/Elton_John"
   }
 ]
