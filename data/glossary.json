@@ -473,11 +473,11 @@
   },
   {
     "id": 59,
-    "term": "The McDonald Family",
-    "excerpt": "A family of three that I knew when I was younger.",
-    "description": "The McDonald (not their real name) family was a family of three, a mother, daughter, and son, who we lived next to when I was younger. This was elementary school era, so I can't really comment on their personalities, but if if didn't live next to them, I definitely wouldn't have been friends with the kids. We were basically friends because we were neighbors, and our parents were friends.",
-    "image": "",
-    "link": ""
+    "term": "Henry (Thomas)",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Henry is a character from the Thomas & Friends franchise, and is a big green tender engine that can do both passenger and goods work. In the early seasons of the show, he would often be stuck up and rude, even deliberately staying in a tunnel during rain because he didn't want his paint to get messed up. But, later on, his character would be changed to be more wimpy.",
+    "image": "henry_thomas.png",
+    "link": "https://ttte.fandom.com/wiki/Henry_(T%26F)"
   },
   {
     "id": 60,
@@ -497,11 +497,11 @@
   },
   {
     "id": 62,
-    "term": "Captain America",
-    "excerpt": "A comic book superhero from Marvel Comics.",
-    "description": "Captain America is a comic book superhero from Marvel Comics, and is most known for being the leader of the Avengers, and his iconic shield. Because of the Marvel Cinematic Universe, pretty much everyone knows at least a little about him.",
-    "image": "captain_america.png",
-    "link": "https://en.wikipedia.org/wiki/Captain_America"
+    "term": "Toby",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Toby is a character from the Thomas & Friends franchise, and is a tramway engine, being partially made out of wood. He is a kind and old character in the early seasons, but doesn't mind letting other characters get what's coming to them if they're acting stupid. Later on, though, his character would be changed to always be scared and wimpy.",
+    "image": "toby.png",
+    "link": "https://ttte.fandom.com/wiki/Toby_(T%26F)"
   },
   {
     "id": 63,
@@ -649,11 +649,11 @@
   },
   {
     "id": 81,
-    "term": "Spider-Man (Series)",
-    "excerpt": "A comic book superhero from Marvel Comics.",
-    "description": "The Spider-Man series is a comic book superhero series from Marvel Comics, and follows Peter Parker (Spider-Man) as he battles various villains. A big part of the series is his relationships with other characters, and how he tries to balance his life as a superhero with his personal life.",
-    "image": "spider_man_series.png",
-    "link": "https://en.wikipedia.org/wiki/Spider-Man"
+    "term": "Thomas",
+    "excerpt": "The main character of the Thomas & Friends franchise.",
+    "description": "Thomas is the main character of the Thomas & Friends, and is a small blue tank engine. He is often cheeky, playing pranks on the bigger engines, and wanting to see more than just the yard that he starts in. When he gets that, he slowly develops, becoming a more mature character.",
+    "image": "thomas.png",
+    "link": "https://ttte.fandom.com/wiki/Thomas_(T%26F)"
   },
   {
     "id": 82,
@@ -2230,5 +2230,69 @@
     "description": "Supernanny is a British reality television show about parents who can't control their children, and call in the professional nanny Jo Frost, who tries to not only help discipline the children, but teach the parents how to do things properly in the future.",
     "image": "supernanny.png",
     "link": "https://en.wikipedia.org/wiki/Supernanny"
+  },
+  {
+    "id": 359,
+    "term": "M&M's",
+    "excerpt": "A sugar-coated chocolate confectionery.",
+    "description": "M&M's are a sugar-coated chocolate confectionery that were introduced by the Mars Wrigley Confectionery part of Mars INc. in late 1941. They come in various colours and flavours, and are known worldwide. They are also known for the anthropomorphic representations of each M&M colour to advertise the candy.",
+    "image": "m_and_ms.png",
+    "link": "https://en.wikipedia.org/wiki/M%26M%27s"
+  },
+  {
+    "id": 360,
+    "term": "Tomy",
+    "excerpt": "A Japanese toy company.",
+    "description": "Tomy, also known as Takara Tomy, is a Japanese toy company that was established in 1924. It is known for making toys for many franchises including Pokémon, Thomas & Friends, Animal Crossing, Beyblade, Astro Boy, and many more.",
+    "image": "tomy.png",
+    "link": "https://en.wikipedia.org/wiki/Tomy"
+  },
+  {
+    "id": 361,
+    "term": "Rusty",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Rusty is a character from the Thomas & Friends franchise, and is a narrow gauge diesel engine that does maintenance work and other odd jobs on the Skarloey railway. He his kind, and always tries his best to get his work done, but some engines are rude to him, since many other diesels aren't kind.",
+    "image": "rusty.png",
+    "link": "https://ttte.fandom.com/wiki/Rusty_(T%26F)"
+  },
+  {
+    "id": 362,
+    "term": "The Legend of Zelda: Ocarina of Time",
+    "excerpt": "An action-adventure game by Nintendo.",
+    "description": "The Legend of Zelda: Ocarina of Time is an action-adventure game by Nintendo, released in 1998 for the Nintendo 64. It was the first Legend of Zelda game to use 3D graphics, and redefined what the series could be at that point. It is also considered the greatest game of all time by many gaming publications.",
+    "image": "the_legend_of_zelda_ocarina_of_time.png",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time"
+  },
+  {
+    "id": 363,
+    "term": "PlayStation",
+    "excerpt": "A home video game console by Sony.",
+    "description": "The PlayStation, also known as the PSX and PS1, is a home video game console by Sony, releasing in 1994. It was designed with 3D graphics in mind, but had quite a few 2D games released for it as well. It is most known for birthing great game series such as Crash Bandicoot, Spyro the Dragon, and more.",
+    "image": "playstation.png",
+    "link": "https://en.wikipedia.org/wiki/PlayStation_(console)"
+  },
+  {
+    "id": 364,
+    "term": "Final Fantasy VII",
+    "excerpt": "A role-playing game made by Square.",
+    "description": "Final Fantasy VII is a role-playing game made by Square, and released in 1997 for the PlayStation. It follows the mercenary Cloud Strife who joins an eco-terrorist group to stop a corporation from using the planet as an energy source. It was the first Final Fantasy game not released for a Nintendo console, and despite it's name, was the 4th Final Fantasy game to release in the west.",
+    "image": "final_fantasy_vii.png",
+    "link": "https://en.wikipedia.org/wiki/Final_Fantasy_VII"
+  },
+  {
+    "id": 365,
+    "term": "Nintendo 64",
+    "excerpt": "A home video game console by Nintendo.",
+    "description": "The Nintendo 64 is a home video game console by nintendo, and released on June 23rd, 1996. It was the first 3D console made by Nintendo, and introduced the world to Super Mario 64, the game that showed that 3D graphics were the future of video games.",
+    "image": "nintendo_64.png",
+    "link": "https://en.wikipedia.org/wiki/Nintendo_64"
+  },
+  {
+    "id": 366,
+    "term": "The Legend of Zelda: Majora's Mask",
+    "excerpt": "An action-adventure game by Nintendo.",
+    "description": "The Legend of Zelda: Majora's Mask is an action-adventure game by Nintendo. Releasing in 2000 as the sequel to The Legend of Zelda: Ocarina of Time, Majora's Mask uses the same engine, and many of the same characters from its predecessor. Though, it makes up for this with it's unique mechanics, and 3 day time limit.",
+    "image": "the_legend_of_zelda_majoras_mask.png",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
   }
 ]
