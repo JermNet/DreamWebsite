@@ -2326,5 +2326,45 @@
     "description": "TrackMaster is a line of Thomas toys, and was made after Tomy lost the rights to make the Tomy Thomas toys (except for in Japan) to HiT Toy Company. So, HiT rebranded the line to TrackMaster, keeping the molds for the trains largely the same, but introducing many new characters, and changing the track to be more simple.",
     "image": "trackmaster.png",
     "link": "https://ttte.fandom.com/wiki/TrackMaster_(2007)"
+  },
+  {
+    "id": 369,
+    "term": "Toji Suzuhara",
+    "excerpt": "A character from the Neon Genesis Evangelion series.",
+    "description": "Toji Suzuhara is a character from the Neon Genesis Evangelion series, and one of the classmates of the main character, Shinji Ikari. He used to hate Shinji, since in his first battle, he ended up hurting Toji's younger sister. But after finding out exactly what it was like to pilot an Evangelion, he understood Shinji more, and ended up becoming friends with him.",
+    "image": "toji_suzuhara.png",
+    "link": "https://evangelion.fandom.com/wiki/T%C5%8Dji_Suzuhara"
+  },
+  {
+    "id": 370,
+    "term": "LCL",
+    "excerpt": "A liquid from the Neon Genesis Evangelion series.",
+    "description": "LCL is a liquid from the Neon Genesis Evangelion series, and is found in the Entry Plug of Evangelion units. It is the only thing that is required for a pilot to sync with an Evangelion, and is a liquid that can be breathed in. Is is sometimes spelled as an abbreviation (L.C.L) and is theorized to stand for Link Connected Liquid.",
+    "image": "lcl.png",
+    "link": "https://evangelion.fandom.com/wiki/LCL"
+  },
+  {
+    "id": 371,
+    "term": "Nostalgia Critic",
+    "excerpt": "An American review comedy web series.",
+    "description": "Nostalgia Critic is an American review comedy web series, created by and staring Doug Walker, who play the Nostalgia Critic. The Nostalgia Critic is an angry, shrill voiced reviewer who watches bad movies and makes fun of them, encompassed by his tagline of \"I remember it so you don't have to.\"",
+    "image": "nostalgia_critic.png",
+    "link": "https://en.wikipedia.org/wiki/Nostalgia_Critic"
+  },
+  {
+    "id": 372,
+    "term": "Playlet",
+    "excerpt": "A YouTube client for Roku.",
+    "description": "Playlet is a YouTube client for Roku that is open source, privacy driven, and automatically blocks adds and skips sponsored segments in videos. If you want to have anything resembling a good experience using YouTube on TV, I would highly recommend it.",
+    "image": "playlet.png",
+    "link": "https://github.com/iBicha/playlet"
+  },
+  {
+    "id": 373,
+    "term": "Roku",
+    "excerpt": "A brand of consumer electronics.",
+    "description": "Roku is a brand of consumer electronics, mainly consisting of streaming boxes and TVs. The TVs have the streaming boxes built in, and have many different applications to stream not only movies and TV, but things like YouTube, and other apps.",
+    "image": "roku.png",
+    "link": "https://en.wikipedia.org/wiki/Roku"
   }
 ]
