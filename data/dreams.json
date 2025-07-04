@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "excerpt": "A dream about me playing Ace Attorney with some unexpected aspects.",
+    "excerpt": "I play Ace Attorney with some unexpected aspects.",
     "tags": ["games", "my home"],
     "title": "The Playing Ace Attorney Dream",
     "rating": 5,
@@ -11,7 +11,7 @@
   },
   {
     "id": 1,
-    "excerpt": "A dream where I get chased down by the titular YouTuber.",
+    "excerpt": "I get chased down by the titular YouTuber.",
     "tags": ["youtube", "action", "grandparents home"],
     "title": "The Binging With Babish Dream",
     "rating": 5,
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "excerpt": "A dream about me going through a black and white town.",
+    "excerpt": "I go through a black and white town.",
     "tags": ["meta"],
     "title": "The Black And White Town Dream",
     "rating": 6,
@@ -51,7 +51,7 @@
   },
   {
     "id": 5,
-    "excerpt": "A dream about someone I knew starting a gambling ring.",
+    "excerpt": "Someone I knew starts a gambling ring.",
     "tags": ["middle school"],
     "title": "The Bradley S. Gambling Dream",
     "rating": 6,
@@ -142,7 +142,7 @@
   {
     "id": 14,
     "excerpt": "I find a modded copy of one of my favourite games.",
-    "tags": ["games"],
+    "tags": ["games", "shopping"],
     "title": "The Modded Brawl Dream",
     "rating": 7,
     "content": "In this dream, I was in a game store that I’ve never seen before, but it looked a lot like various game stores I’ve seen in commercials and television (the ones from the [[Rivals 60 EB Games Commercial]] and [[The Big Bang Theory]] being the best examples, but not perfect). The whole store was almost blindingly white, the shelves, floor, ceiling, everything. I was in between two shelves, and on one of the shelves I saw a modded (aka [[rom hacked|rom hack]]) copy of [[Super Smash Bros. Brawl]] (I don’t believe it was a preexisting mod, but I could be wrong).",
@@ -282,7 +282,7 @@
   {
     "id": 28,
     "excerpt": "I find a game that's on a console it's not really on.",
-    "tags": ["games"],
+    "tags": ["games", "shopping"],
     "title": "The 3DS Super Mario 3D World Dream",
     "rating": 6,
     "content": "I was at a weird game store in a part of town I normally don't go to, and there was a [[3DS]] section that I was looking at. It had [[Super Mario 3D World]], but instead of being for the [[Wii U]] like it normally is, it was for the 3DS. Along with it, there was also a [[Mario]] game that had an off-centred rainbow 8-bit Mario sprite on it, which I think was also Super Mario 3D World, just with different box art.",
@@ -388,5 +388,25 @@
     "content": "I was laying down next to an extremely beautiful woman that I’ve never met before. She had long blonde hair, and she was wearing red lipstick. We were looking at each other, and although there was nothing sexual between us, I was a little embarrassed.",
     "images": [],
     "thoughts": "Simple, but nice. Who doesn't want to lay down in bed with a beautiful woman? I mean, there are probably a lot of people who don't, but that's besides the point, and there was nothing sexual anyway. I know there's not much to this dream, but it has a very pleasant aura, so it gets rated relatively high."
+  },
+  {
+    "id": 39,
+    "excerpt": "I go inside a house that an amalgamation of houses.",
+    "tags": ["grandparents home", "middle school"],
+    "title": "The Crazy House Dream",
+    "rating": 7,
+    "content": "Me and a bunch of people from my grade nine class (I most specifically remember [[Bradley S.]]) were invited to a mansion. The outside reminded me of a mix of [[Azuki|Miho Azuki]]'s house from the [[Bakuman]] manga, the house from [[Home Alone]], and [[Kouko|Kouko Ibuki]]’s house from [[Clannad]]. <br><br> The inside was very maze-like, and I went through multiple insides of houses, one of which was my grandmother's house on my mom's side, but more maze like. I eventually made it to a perfect replica of my grandmother's house on my dad's side, and I saw Bradley S, and someone else I can’t remember there. The last thing I remember is telling them that it was a perfect replica of my grandmother’s house.",
+    "images": ["039_00_azuki_home.png", "039_01_home_alone_house.png", "039_02_kouko_house.png"],
+    "thoughts": "I like the strange house in this dream. Both the outside and inside were amalgamations, and it really felt huge and maze-like, which I like in a dream. I also wouldn't say maze-like locations are rare in my dreams, but I would put them in the uncommon category, so that bumps this one up a notch. It just felt fun, and traversing the many houses really felt like an expedition."
+  },
+  {
+    "id": 40,
+    "excerpt": "I find a manga that doesn't exist.",
+    "tags": ["anime", "shopping"],
+    "title": "The Morrigan Manga Dream",
+    "rating": 8,
+    "content": "I was in a bookstore, looking for something to buy. It looked kind of like my local bookstore at parts, but not really in others. I remember looking for something for a while, and after getting bored of looking, I went to a different part of the store, which had a lot of very tall bookshelves against a wall with a tall curtain on the other side. Because of that, it felt like it was behind a stage, with the curtain being behind me. <br><br> It then cut immediately to me, still in the same room, and taking the manga I was going to buy off the shelf. My friend [[James]] was next to me now as well. The manga that I picked up was all about [[Morrigan|Morrigan Aensland]] from [[Darkstalkers]]. The cover was a monotone light minty green and white, and had multiple Morrigans in different outfits in a cutesy art style. The price ($19.99) was also in the bottom right corner. I've made a recreation of it to the best of my ability and memory below. The last thing I remember is telling James about the manga and then us leaving to go pay for it.",
+    "image": ["040_00_morrigan_manga.png"],
+    "thoughts": "The manga is the most interesting part of this dream, and is a nice visual. It looked a lot better, and more consistent in the dream, but I'm not an artist, so the image is more of a mock up rather than anything. I also like shopping in my dreams, because that's something that I enjoy in real life when there's at least something I'm into. So, I suppose just grocery shopping isn't my cup of tea, but if the grocery store has DVDs or something, that makes it worth it, even if I don't buy any."
   }
 ]
