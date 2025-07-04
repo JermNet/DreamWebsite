@@ -2294,5 +2294,37 @@
     "description": "The Legend of Zelda: Majora's Mask is an action-adventure game by Nintendo. Releasing in 2000 as the sequel to The Legend of Zelda: Ocarina of Time, Majora's Mask uses the same engine, and many of the same characters from its predecessor. Though, it makes up for this with it's unique mechanics, and 3 day time limit.",
     "image": "the_legend_of_zelda_majoras_mask.png",
     "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"
+  },
+  {
+    "id": 367,
+    "term": "Dairy of a Wimpy Kid: Dog Days",
+    "excerpt": "A book in the Dairy of a Wimpy Kid series.",
+    "description": "Dairy of a Wimpy Kid: Dog Days is a book in the Dairy of a Wimpy Kid series, and the fourth book overall. It follows Greg Heffley, who just wants to spend his Summer indoors, and playing video games all day. But, his mother prevents this, and Greg has to find out what to do, getting in trouble as a result.",
+    "image": "dairy_of_a_wimpy_kid_dog_days.png",
+    "link": "https://en.wikipedia.org/wiki/Diary_of_a_Wimpy_Kid:_Dog_Days_(novel)"
+  },
+  {
+    "id": 368,
+    "term": "Capsule Plarail",
+    "excerpt": "A line of Thomas toys.",
+    "description": "Capsule Plarail is a line of Thomas toys from Japan. They are small, wind up versions of the Thomas characters that are small enough to fit in capsules so they can be dispensed from gacha machines. Not only does it have almost every single Thomas character made in the line, but it has various versions of many characters.",
+    "image": "capsule_plarail.png",
+    "link": "https://thomascapsuleplarail.fandom.com/wiki/Capsule_Plarail"
+  },
+  {
+    "id": 367,
+    "term": "Percy",
+    "excerpt": "A character from the Thomas & Friends franchise.",
+    "description": "Percy is a character from the Thomas & Friends franchise. He is a small, green, saddle tank engine, and has a very naive and cheeky personality. He will fall victim to pranks by the bigger engines and his friends, but will just as easily do the same to them.",
+    "image": "percy.png",
+    "link": "https://thomascapsuleplarail.fandom.com/wiki/Capsule_Plarail"
+  },
+  {
+    "id": 368,
+    "term": "TrackMaster",
+    "excerpt": "A line of Thomas toys.",
+    "description": "TrackMaster is a line of Thomas toys, and was made after Tomy lost the rights to make the Tomy Thomas toys (except for in Japan) to HiT Toy Company. So, HiT rebranded the line to TrackMaster, keeping the molds for the trains largely the same, but introducing many new characters, and changing the track to be more simple.",
+    "image": "trackmaster.png",
+    "link": "https://ttte.fandom.com/wiki/TrackMaster_(2007)"
   }
 ]
