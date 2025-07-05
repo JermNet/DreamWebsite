@@ -2366,5 +2366,13 @@
     "description": "Roku is a brand of consumer electronics, mainly consisting of streaming boxes and TVs. The TVs have the streaming boxes built in, and have many different applications to stream not only movies and TV, but things like YouTube, and other apps.",
     "image": "roku.png",
     "link": "https://en.wikipedia.org/wiki/Roku"
+  },
+  {
+    "id": 374,
+    "term": "Plarail",
+    "excerpt": "A Japanese toy train line.",
+    "description": "Plarail is a Japanese toy train line made by Tomy, and mainly consisting of blue plastic track, with plastic, battery operated, motorized trains. Though, it launched in 1959 with hand powered trains, it is known for the motorized trains. It is also known for its line of Thomas toys, also following the blue plastic track and plastic, battery operated, motorized train formula.",
+    "image": "plarail.png",
+    "link": "https://en.wikipedia.org/wiki/Plarail"
   }
 ]
