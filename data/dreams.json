@@ -252,7 +252,7 @@
   {
     "id": 25,
     "excerpt": "I drink coffee that tastes bad.",
-    "tags": ["my home"],
+    "tags": ["my home", "liminal"],
     "title": "The Coffee Dream",
     "rating": 5,
     "content": "I remember this dream being a POV perspective, and it either took place at my counter where my coffee machines are, or on some fictional counter, I can't really remember. The whole dream was just me making a coffee and then drinking it from a first-person perspective, and it tasted bad. I also kind of remember the perspective being a little more top down than it should have been when I went to drink the coffee.",
@@ -392,7 +392,7 @@
   {
     "id": 39,
     "excerpt": "I go inside a house that an amalgamation of houses.",
-    "tags": ["grandparents home", "middle school"],
+    "tags": ["grandparents home", "middle school", "liminal"],
     "title": "The Crazy House Dream",
     "rating": 7,
     "content": "Me and a bunch of people from my grade nine class (I most specifically remember [[Bradley S.]]) were invited to a mansion. The outside reminded me of a mix of [[Azuki|Miho Azuki]]'s house from the [[Bakuman]] manga, the house from [[Home Alone]], and [[Kouko|Kouko Ibuki]]’s house from [[Clannad]]. <br><br> The inside was very maze-like, and I went through multiple insides of houses, one of which was my grandmother's house on my mom's side, but more maze like. I eventually made it to a perfect replica of my grandmother's house on my dad's side, and I saw Bradley S, and someone else I can’t remember there. The last thing I remember is telling them that it was a perfect replica of my grandmother’s house.",
@@ -488,5 +488,35 @@
     "content": "I’ve had various dreams under this umbrella that I’m about to describe, but since they all have melded together, and I don’t know what’s separate, they will be counted as one dream. I was in my local mall, and it was completely empty except for the teachers and students of my middle school, and we were there because it was a field trip. <br><br> I remember going up an escalator alone, and at the top, I saw [[my English teacher|Ms. Middle School English]], so I said hi before leaving to go check out some of the stores. I only remember going to two stores. The first was a food store which was in basically a halved version of the food court (which is fairly small as is), and I think I wanted to buy something but didn’t have the money. I also remember seeing [[Bradley S.]] and [[Shauna]] there as well, the only other people I actually saw other than shop owners and one other person to be mentioned. <br><br> The other shop I went to was a kind of retro store, and the inside reminded me of a candy store. I got really excited and disappointed because they had 4 or 5 packs of the [[Pokémon]] card set [[Neo Genesis]] for about 2 bucks each (which is good as is, but it's a retro set, so packs go for hundreds), but I didn’t have any money. The last thing I can remember is me leaving that shop and telling my friend [[Pamela]] about it.",
     "images": [],
     "thoughts": "Field trips are absolutely wonderful, and I figure the average person probably doesn't have their number of field trips go into the double digits, so having a dream about a field trip is pretty cool. I also got the experience of shopping around, even if I didn't have any money in the dream haha. The mall being mostly empty was pretty cool as well, and it kind of felt like a liminal space, as many real life locations do in dreams."
+  },
+  {
+    "id": 49,
+    "excerpt": "I go to a beach.",
+    "tags": ["liminal"],
+    "title": "The Beach Dream",
+    "rating": 6,
+    "content": "This is kind of a meld of different dreams that I’ve had but can’t separate in my mind. I was at an actual beach, but it looked kind of like local lake, and there was a big rock in the sand. The sand was more wet than normal, almost like quick sand. I remember going to the water, and I was able to go really far without the water being too high. The day was overcast, so there were only a few people in the water, and the last thing that I can remember is a wave coming in.",
+    "images": [],
+    "thoughts": "Going to the beach/lake is probably the only Summer exclusive activity that I enjoy, and that's because I don't do well in the heat. So, having a dream about it is only natural. Too bad that's all there is to this one, just beach and wet. I like beach and wet, but I can go to beach and wet during one quarter of the year, that's enough for me."
+  },
+  {
+    "id": 50,
+    "excerpt": "I hang out in my elementary school library.",
+    "tags": ["elementary school"],
+    "title": "The Elementary School Library Dream",
+    "rating": 7,
+    "content": "As are some of my dreams, this is a collection of dreams that have melded together over the years, so I'm collecting them under one dream. I was in the library at my elementary school looking for something to read. I was in the section with the bins of books (shown in the layout image below), looking for something to read. I then went to the other part and I remember seeing all of the [[Diary of a Wimpy Kid]] books plus some that didn’t exist. Around the same area there was also anime as well. <br><br> In one of the dreams, the shelf at the back had a bunch of [[Amulet]] series books, cookbooks and I think other sci-fi books and magazines. In another dream, I was going there because there were a bunch of comic books on that shelf, but right as I got there, a janitor took them away to throw them out. I was going to ask if I could have them, but I was too scared.",
+    "images": ["050_00_elementary_library.png"],
+    "thoughts": "For some reason, I've had a lot of dreams at my elementary school library. It just started out as something weird, but then it developed into me thinking about it being weird, so it happened a lot more. I probably have a dozen or so that take place in that location in one way or another. This is one of the less interesting ones of the bunch, but I think it's still kind of up there. It's just kind of hard to compare when I've had better dreams in the same location."
+  },
+  {
+    "id": 51,
+    "excerpt": "I'm at my grandmother's house at night.",
+    "tags": ["grandparents home"],
+    "title": "The Night Time Grammie’s House Dream",
+    "rating": 5,
+    "content": "In this dream, I was in my brother's room (the middle bedroom in the layout image) at my grandmother's house on my dad’s side, and it was around 12 or 1 in the morning. Time felt weird, like it was in the middle of time going forward or backward. I could hear my grandmother and my dad talking, so I opened the door to see what was going on. I don’t think I was supposed to hear because they stopped when I came out.",
+    "images": ["051_00_grammies_night.png"],
+    "thoughts": "My grandmother's house is a place that appears in my dreams very often, since as you can imagine, I have a lot of memories there. Unless I'm getting up in the middle of the night to use the washroom, the 12 to 1 area of time is an unknown zone there, so it was interesting to have a dream about that period of time. I didn't really like that a secret was being kept from me, though, and other than that, that's all this dream was, so it could have been better."
   }
 ]
