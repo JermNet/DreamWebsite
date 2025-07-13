@@ -2374,5 +2374,13 @@
     "description": "Plarail is a Japanese toy train line made by Tomy, and mainly consisting of blue plastic track, with plastic, battery operated, motorized trains. Though, it launched in 1959 with hand powered trains, it is known for the motorized trains. It is also known for its line of Thomas toys, also following the blue plastic track and plastic, battery operated, motorized train formula.",
     "image": "plarail.png",
     "link": "https://en.wikipedia.org/wiki/Plarail"
+  },
+  {
+    "id": 375,
+    "term": "Soar High! Isami",
+    "excerpt": "An anime about the descendant of the Shinsengumi.",
+    "description": "Soar High! Isami is an anime about Isami Hanaoka, a fifth grader who is the descendant of the Shinsengumi, a group of samurai who protected the Tokugawa shogunate during the Bakumatsu period. She, along with her classmates (who are also descendants of the Shinsengumi) find strange artifacts, and have to fight the evil Kurotengu organization.",
+    "image": "soar_high_isami.png",
+    "link": "https://en.wikipedia.org/wiki/Soar_High!_Isami"
   }
 ]
