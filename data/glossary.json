@@ -2382,5 +2382,13 @@
     "description": "Soar High! Isami is an anime about Isami Hanaoka, a fifth grader who is the descendant of the Shinsengumi, a group of samurai who protected the Tokugawa shogunate during the Bakumatsu period. She, along with her classmates (who are also descendants of the Shinsengumi) find strange artifacts, and have to fight the evil Kurotengu organization.",
     "image": "soar_high_isami.png",
     "link": "https://en.wikipedia.org/wiki/Soar_High!_Isami"
+  },
+  {
+    "id": 376,
+    "term": "SpongeBob SquarePants (Character)",
+    "excerpt": "A character from the SpongeBob SquarePants cartoon.",
+    "description": "SpongeBob SquarePants is a character from the SpongeBob SquarePants cartoon. He is a sea sponge, living underwater with his best friend Patrick Star, and his neighbor who doesn't like him, Squidward Tentacles. He works at the Krusty Krab, and is one of his favourite things to do.",
+    "image": "spongebob_squarepants_character.png",
+    "link": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_%28character%29"
   }
 ]
