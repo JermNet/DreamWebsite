@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
           </a>
         </div>
       </section>
-      <p>Made by JermNet @<a href="https://github.com/jermnet" target="_blank">GitHub</a> 2025</p>
+      <p>Made by JermNet @<a href="https://github.com/jermnet" target="_blank">GitHub</a> 2026</p>
     </footer>
   `;
   document.body.insertAdjacentHTML("beforeend", footerHTML);
